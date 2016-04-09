@@ -1,17 +1,18 @@
 import re
 
-a = "m"
-b = "n"
-c = "p"
-d = "o"
-e = "r"
-f = "t"
-g = "d"
+a = "th"
+b = "em"
+c = "al"
+d = "y"
+e = "ere"
+f = "o"
+g = "en"
 
 def english_sonnets():
     lines_seen = set()
-    f1 = 'source.txt'
-    with open('english_sonnets.txt', 'w') as f2:
+    f1 = '../text/source.txt'
+    with open('../sonnets/2english_sonnets.txt', 'w') as f2:
+        f2.write('a=' + a + '\n' + 'b=' + b + '\n' + 'c=' + c + '\n' + 'd=' + d + '\n' + 'e=' + e + '\n' + 'f=' + f + '\n' + 'g=' + g + '\n\n')
         while True:
             for ending in [a, b, a, b, c, d, c, d, e, f, e, f, g, g]:
                 for line in open(f1):
@@ -27,8 +28,9 @@ def english_sonnets():
 
 def italian_sonnets():
     lines_seen = set()
-    f1 = 'source.txt'
-    with open('italian_sonnets.txt', 'w') as f2:
+    f1 = '../text/source.txt'
+    with open('../sonnets/2italian_sonnets.txt', 'w') as f2:
+        f2.write('a=' + a + '\n' + 'b=' + b + '\n' + 'c=' + c + '\n' + 'd=' + d + '\n' + 'e=' + e + '\n\n')
         while True:
             for ending in [a, b, b, a, a, b, b, a, c, d, e, c, d, e]:
                 for line in open(f1):
