@@ -11,7 +11,7 @@ g = "d"
 def english_sonnets():
     lines_seen = set()
     f1 = 'source.txt'
-    with open('english_sonnets1.txt', 'w') as f2:
+    with open('english_sonnets.txt', 'w') as f2:
         while True:
             for ending in [a, b, a, b, c, d, c, d, e, f, e, f, g, g]:
                 for line in open(f1):
@@ -28,7 +28,7 @@ def english_sonnets():
 def italian_sonnets():
     lines_seen = set()
     f1 = 'source.txt'
-    with open('italian_sonnets1.txt', 'w') as f2:
+    with open('italian_sonnets.txt', 'w') as f2:
         while True:
             for ending in [a, b, b, a, a, b, b, a, c, d, e, c, d, e]:
                 for line in open(f1):
@@ -41,6 +41,7 @@ def italian_sonnets():
                     return
 
             f2.write('\n')
+
 
 english_sonnets()
 italian_sonnets()
