@@ -43,6 +43,23 @@ def english_sonnets():
                     return
             f2.write('\n')
 
+def common_measure():
+    lines_seen = set()
+    f1 = 'source.txt'
+    with open('common-measure.txt', 'w') as f2:
+        f2.write('\n' + 'COMMON MEASURE:' + ' (a=' + a + ', ' + 'b=' + b + ', ' + 'c=' + c + ')\n\n')
+        while True:
+            for ending in [a, b, c, b]:
+                for line in open(f1):
+                    if re.search('.' + ending + '$', line) is not None and len(line) < 100:
+                        if line not in lines_seen:
+                            f2.write(line)
+                            lines_seen.add(line)
+                            break
+                else:
+                    return
+            f2.write('\n')
 
 italian_sonnets()
 english_sonnets()
+common_measure()
