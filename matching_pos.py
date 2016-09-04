@@ -42,7 +42,7 @@
 from source_pos_repeat import source
 
 pattern = ['MD']
-f = open('../matching_pos/' + str(pattern) + 'pos_repeat' + '.txt', 'w+')
+f = open('/matching_pos/' + str(pattern) + 'pos_repeat' + '.txt', 'w+')
 
 def matching_pos():
     keys_seen = set()
