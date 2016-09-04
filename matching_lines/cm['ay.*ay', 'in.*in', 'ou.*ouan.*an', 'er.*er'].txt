@@ -1,0 +1,5 @@
+
+['ay.*ay', 'in.*in', 'ou.*ouan.*an', 'er.*er']
+
+Arrayed out in such a nested way
+into rotating directionless 

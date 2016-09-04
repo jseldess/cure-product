@@ -1,0 +1,13 @@
+
+['NNP', 'VBN', 'JJR', 'IN']
+
+University 
+tired 
+Higher 
+Until 
+Union 
+reported 
+higher 
+until 
+DUCKY 
+needed 

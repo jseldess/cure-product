@@ -1,0 +1,6 @@
+
+['last', 'anyway', '^or', 'what']
+
+What was the last time
+or alter of course the time anyway
+or imagined anyway

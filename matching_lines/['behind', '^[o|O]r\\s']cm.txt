@@ -1,0 +1,9 @@
+
+['behind', '^[o|O]r\\s']
+
+behind or out front or up above
+or imagined anyway
+
+waiting out front or up above or behind
+or behind
+

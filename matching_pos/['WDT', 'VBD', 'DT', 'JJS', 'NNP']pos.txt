@@ -1,0 +1,13 @@
+
+['WDT', 'VBD', 'DT', 'JJS', 'NNP']
+
+Which 
+went 
+every 
+best 
+Blue 
+which 
+got 
+A 
+least 
+University 

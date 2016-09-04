@@ -1,0 +1,10 @@
+
+['^I\\s.*ed$', '^I\\s.*y$', '^I\\s.*ed$', 'ed$', 'y$', '^I\\s.*r$', 's$', 'r$', 'r$', 's$']
+
+I get up soon and talk in front imaged
+I resume indelible tracks up in the sky
+I literally moved
+as it was designed
+by my memory
+I have seen more than I can remember
+I presume to others

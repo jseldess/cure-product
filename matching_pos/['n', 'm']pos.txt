@@ -1,0 +1,16 @@
+
+['n', 'm']
+
+
+
+[('connections', 'NNS')]
+ 
+
+[('suspended', 'VBN')]
+ 
+
+[('Then', 'RB')]
+ 
+
+[('And', 'CC')]
+ 

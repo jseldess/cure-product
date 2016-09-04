@@ -1,0 +1,5 @@
+
+['before', '^stop', 'cost']
+
+before we can have a retroactive
+stopping into the prospect

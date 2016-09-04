@@ -1,0 +1,4 @@
+
+COMMON MEASURE [.sh$, .p$, .t$, .e$]
+
+if only on the way to the trash

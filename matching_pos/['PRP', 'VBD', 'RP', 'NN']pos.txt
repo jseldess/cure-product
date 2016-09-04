@@ -1,0 +1,5 @@
+
+['PRP', 'VBD', 'RP', 'NN']
+
+me 
+went 

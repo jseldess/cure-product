@@ -1,0 +1,9 @@
+
+['speak', 'who', 'who', 'speak']
+
+not speaking
+who knows the way
+who knows how to turn it off
+I speak them of my possessions
+
+speak them of my possessions

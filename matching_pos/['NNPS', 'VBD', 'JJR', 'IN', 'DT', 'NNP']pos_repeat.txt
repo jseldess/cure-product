@@ -1,0 +1,3 @@
+
+['NNPS', 'VBD', 'JJR', 'IN', 'DT', 'NNP']
+

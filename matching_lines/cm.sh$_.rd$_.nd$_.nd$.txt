@@ -1,0 +1,4 @@
+
+COMMON MEASURE [.sh$, .rd$, .nd$, .nd$]
+
+if only on the way to the trash

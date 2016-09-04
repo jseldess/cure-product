@@ -1,0 +1,4 @@
+
+['stand|stood', '^stand|stood']
+
+hovering above standing water

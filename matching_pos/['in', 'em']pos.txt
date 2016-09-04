@@ -1,0 +1,79 @@
+
+['in', 'em']
+
+
+
+[('interfaces', 'NNS')]
+ 
+
+[('minutes', 'NNS')]
+ 
+
+[('interfaces', 'NNS'), ('.', '.')]
+ 
+
+[('pairings', 'NNS')]
+ 
+
+[('lines', 'NNS'), ('.', '.')]
+ 
+
+[('feelings', 'NNS')]
+ 
+
+[('destinations', 'NNS')]
+ 
+
+[('ruins', 'NNS')]
+ 
+
+[('remnants', 'NNS')]
+ 
+
+[('Ruins', 'NNS')]
+ 
+
+[('intervals', 'NNS')]
+ 
+
+[('outlines', 'NNS')]
+ 
+
+[('retinas', 'NNS')]
+ 
+
+[('statements', 'NNS')]
+ 
+
+[('buildings', 'NNS')]
+ 
+
+[('pines', 'NNS'), (',', ',')]
+ 
+
+[('Finds', 'NNS')]
+ 
+
+[('settings', 'NNS')]
+ 
+
+[('opinions', 'NNS')]
+ 
+
+[('things', 'NNS')]
+ 
+
+[('interests', 'NNS')]
+ 
+
+[('points', 'NNS')]
+ 
+
+[('Memories', 'NNS')]
+ 
+
+[('inflections', 'NNS')]
+ 
+
+[('Blessings', 'NNS')]
+ 
