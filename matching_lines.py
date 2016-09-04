@@ -1,3 +1,6 @@
+# This program loops through a list of regex strings, matching each item in the list
+# against lines in a source file and writing the results to a target file. 
+
 import re
 
 pattern = ['before', '^stop', 'ce', 're', 'scanned', '^Or.*can\s']
