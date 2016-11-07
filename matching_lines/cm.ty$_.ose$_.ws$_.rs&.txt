@@ -1,5 +1,0 @@
-
-COMMON MEASURE [.ty$, .ose$, .ws$, .rs&]
-
-and testing the edge and gravity
-in traversing my purpose

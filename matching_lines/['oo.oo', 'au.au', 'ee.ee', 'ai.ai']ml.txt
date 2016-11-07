@@ -1,3 +1,0 @@
-
-['oo.oo', 'au.au', 'ee.ee', 'ai.ai']
-

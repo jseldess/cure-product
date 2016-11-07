@@ -1,7 +1,0 @@
-
-['^[u|U]', 'b$']
-
-until my purpose up in the sky
-promoting from home to a new job
-
-up in the television pleasure

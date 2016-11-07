@@ -1,3 +1,0 @@
-
-['d[i|e|ay].d[i|e|ay]', 'd[i|e|ay].d[i|e|ay]', 'd[o|u].d[o|u]', 'd[o|u].d[o|u]']
-

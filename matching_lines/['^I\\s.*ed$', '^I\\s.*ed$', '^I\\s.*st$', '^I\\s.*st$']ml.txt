@@ -1,6 +1,0 @@
-
-['^I\\s.*ed$', '^I\\s.*ed$', '^I\\s.*st$', '^I\\s.*st$']
-
-I get up soon and talk in front imaged
-I literally moved
-I have them lost

@@ -1,6 +1,0 @@
-
-['sh.*wh', 'ou.*u']
-
-You should ask who I am
-Arrayed out in such a nested way
-

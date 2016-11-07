@@ -1,5 +1,0 @@
-
-['before', '^stop', 'like.*sleep']
-
-before we can have a retroactive
-stopping into the prospect

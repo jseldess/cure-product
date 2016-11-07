@@ -1,6 +1,0 @@
-
-['^[c|C]ould', '^[w|W]ould']
-
-could map to the dimnsions of a graph
-Would I love the same stuff
-

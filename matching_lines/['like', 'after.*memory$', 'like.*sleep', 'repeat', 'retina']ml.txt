@@ -1,5 +1,0 @@
-
-['like', 'after.*memory$', 'like.*sleep', 'repeat', 'retina']
-
-I would like your zip code
-after though there’s no memory

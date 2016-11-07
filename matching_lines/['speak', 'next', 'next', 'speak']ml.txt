@@ -1,4 +1,0 @@
-
-['speak', 'next', 'next', 'speak']
-
-not speaking

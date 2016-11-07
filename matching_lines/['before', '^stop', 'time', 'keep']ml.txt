@@ -1,6 +1,0 @@
-
-['before', '^stop', 'time', 'keep']
-
-before we can have a retroactive
-stopping into the prospect
-already formerly a long time

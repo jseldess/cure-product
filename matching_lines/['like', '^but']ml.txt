@@ -1,9 +1,0 @@
-
-['like', '^but']
-
-I would like your zip code
-but the sun isn’t up
-
-like flattening sleep 
-but for memory elsewhere
-

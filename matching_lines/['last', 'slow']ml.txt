@@ -1,4 +1,0 @@
-
-['last', 'slow']
-
-What was the last time

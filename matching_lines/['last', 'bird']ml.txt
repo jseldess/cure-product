@@ -1,4 +1,0 @@
-
-['last', 'bird']
-
-What was the last time

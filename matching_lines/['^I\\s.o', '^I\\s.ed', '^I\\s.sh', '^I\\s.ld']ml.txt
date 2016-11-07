@@ -1,4 +1,0 @@
-
-['^I\\s.o', '^I\\s.ed', '^I\\s.sh', '^I\\s.ld']
-
-I told her a story, she drew waves.
