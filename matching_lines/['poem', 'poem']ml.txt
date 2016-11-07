@@ -1,6 +1,0 @@
-
-['poem', 'poem']
-
-I want to cite a poem so usual
-I want to cite a poem
-

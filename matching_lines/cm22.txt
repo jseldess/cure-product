@@ -1,3 +1,0 @@
-
-COMMON MEASURE FUZZY: ['end', 'live', 'connection']
-

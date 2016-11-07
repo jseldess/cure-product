@@ -1,7 +1,0 @@
-
-COMMON MEASURE FUZZY: ['un', 'ou', 'ble']
-
-sun
-around 
-am obliged
-

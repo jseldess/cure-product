@@ -1,5 +1,0 @@
-
-['^[l|L]', 'en$', '   ', 'ne$']
-
-love of breadth
-on a snow day with my children

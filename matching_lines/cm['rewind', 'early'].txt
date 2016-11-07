@@ -1,4 +1,0 @@
-
-['rewind', 'early']
-
-I was advised to rewind

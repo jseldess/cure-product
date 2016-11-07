@@ -1,4 +1,0 @@
-
-COMMON MEASURE [.ds$, .ere&, .ds$, .ere&]
-
-stopped light with validated variegated fields

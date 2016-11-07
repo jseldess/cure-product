@@ -1,7 +1,0 @@
-
-['last', 'first']
-
-What was the last time
-The first track
-
-under the last seen principle

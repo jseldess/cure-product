@@ -1,3 +1,0 @@
-
-['ould.*ould', 'ould']
-

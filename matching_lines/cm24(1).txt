@@ -1,3 +1,0 @@
-
-COMMON MEASURE FUZZY: ['or', 're', 'al']
-

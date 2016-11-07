@@ -1,3 +1,0 @@
-
-['au.oa', 'oa.au', 'ee.ai', 'ai.ee']
-

@@ -1,6 +1,0 @@
-
-['last', 'field']
-
-What was the last time
-stopped light with validated fields
-

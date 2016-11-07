@@ -1,6 +1,0 @@
-
-['before', '^stop', 'before', 'sleep']
-
-before we can have a retroactive
-stopping into the prospect
-before I act on them

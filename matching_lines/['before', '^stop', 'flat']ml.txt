@@ -1,5 +1,0 @@
-
-['before', '^stop', 'flat']
-
-before we can have a retroactive
-stopping into the prospect

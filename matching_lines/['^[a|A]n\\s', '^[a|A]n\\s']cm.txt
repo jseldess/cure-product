@@ -1,9 +1,0 @@
-
-['^[a|A]n\\s', '^[a|A]n\\s']
-
-an impure product
-an unassimilable desire against me
-
-an upsent afternoon
-an irretrievable advantage
-

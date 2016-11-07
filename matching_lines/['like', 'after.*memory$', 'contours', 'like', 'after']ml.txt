@@ -1,9 +1,0 @@
-
-['like', 'after.*memory$', 'contours', 'like', 'after']
-
-I would like your zip code
-after though there’s no memory
-Who throws contours away
-Formerly a way like this one
-that having been after content
-

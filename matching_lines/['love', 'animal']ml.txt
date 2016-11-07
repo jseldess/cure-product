@@ -1,6 +1,0 @@
-
-['love', 'animal']
-
-love of breadth
-ed animals
-

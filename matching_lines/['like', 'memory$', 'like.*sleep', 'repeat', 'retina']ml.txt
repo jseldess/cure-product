@@ -1,5 +1,0 @@
-
-['like', 'memory$', 'like.*sleep', 'repeat', 'retina']
-
-I would like your zip code
-Elsewhere by my memory
