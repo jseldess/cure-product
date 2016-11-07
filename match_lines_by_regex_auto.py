@@ -4,7 +4,7 @@ from source_unique_words import words
 
 for pattern in combinations(words, 2):
     print pattern
-    new_file = open('../match_lines_by_regex_auto/' + str(pattern) + '.txt', 'w')
+    new_file = open(str(pattern) + '.txt', 'w')
     new_file.write('\n' + str(pattern) + '\n\n')
     lines_seen = set()
     index = 0
