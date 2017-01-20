@@ -1,0 +1,9 @@
+
+('spots', 'chance')
+
+white spots on a black surface
+attesting this is a chance
+
+black spots on a white surface
+This is your chance
+

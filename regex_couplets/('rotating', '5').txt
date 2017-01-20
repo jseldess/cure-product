@@ -1,0 +1,9 @@
+
+('rotating', '5')
+
+into rotating directionless 
+15
+
+Rather it itself is rotating
+5
+

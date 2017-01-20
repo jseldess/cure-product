@@ -1,0 +1,9 @@
+
+('morning', 'assume')
+
+We’ll have coffee this morning
+I assumed it was visible
+
+No! It’s morning, but the sun isn’t up yet.
+I assumed 
+

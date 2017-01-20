@@ -1,0 +1,9 @@
+
+('pure', 'knows')
+
+an impure product
+who knows the way
+
+What is an impure product
+who knows how to turn it off
+

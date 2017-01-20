@@ -1,0 +1,10 @@
+
+('When', 'COPY')
+
+When I woke up in the morning
+COPY DREAM 
+
+When closed to my knowing
+COPY
+
+When I'm watching my tv 

@@ -1,0 +1,9 @@
+
+('And', 'tv')
+
+And put in place as though stationary
+when watching tv
+
+And as an extension of the values
+When I'm watching my tv 
+

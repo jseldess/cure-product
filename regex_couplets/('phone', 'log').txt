@@ -1,0 +1,10 @@
+
+('phone', 'log')
+
+I have entered my phone
+I logged in
+
+reflexing indented in my phone
+I used my technology
+
+I had entered my phone

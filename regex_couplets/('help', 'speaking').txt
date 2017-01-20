@@ -1,0 +1,10 @@
+
+('help', 'speaking')
+
+people would be helped
+not speaking
+
+The constituents would be helped
+without really speaking
+
+in the form help sale offered

@@ -1,0 +1,10 @@
+
+('decisions', 'latency')
+
+the planning process for decisions
+with latency from constituents
+
+forgetting decisions 
+latency which doesn’t mean anything
+
+that decisions can be attributable

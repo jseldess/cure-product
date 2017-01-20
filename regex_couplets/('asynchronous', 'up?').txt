@@ -1,0 +1,9 @@
+
+('asynchronous', 'up?')
+
+asynchronous 
+It’s time to wake up, Papa!
+
+slow asynchronous
+but not impart cynicism
+

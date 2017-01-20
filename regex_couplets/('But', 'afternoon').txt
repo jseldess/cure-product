@@ -1,0 +1,10 @@
+
+('but', 'AFTERNOON')
+
+No! It’s morning, but the sun isn’t up yet.
+UPSENT IN THE AFTERNOON
+
+but the sun isn’t up
+UPSET IN THE AFTERNOON
+
+but it continued

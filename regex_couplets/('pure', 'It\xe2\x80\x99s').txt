@@ -1,0 +1,9 @@
+
+('pure', 'it\xe2\x80\x99s')
+
+an impure product
+But it’s dark outside. It’s still nightime.
+
+as pure as my children
+and it’s not literal
+

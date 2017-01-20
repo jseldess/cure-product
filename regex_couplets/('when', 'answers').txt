@@ -1,0 +1,9 @@
+
+('When', 'answers')
+
+When I woke up in the morning
+the duration of answers
+
+When I'm watching my tv 
+for the duration of answers
+

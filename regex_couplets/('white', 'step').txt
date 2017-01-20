@@ -1,0 +1,9 @@
+
+('white', 'step')
+
+white spots on a black surface
+from which to step off
+
+black spots on a white surface
+step in by the prospect
+

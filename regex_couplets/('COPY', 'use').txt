@@ -1,0 +1,9 @@
+
+('COPY', 'use')
+
+COPY DREAM 
+I used my technology
+
+COPY
+trackers collecting data on users
+

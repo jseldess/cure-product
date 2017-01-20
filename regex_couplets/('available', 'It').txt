@@ -1,0 +1,9 @@
+
+('available', 'It')
+
+Then the sun isn’t available
+It has been since
+
+or an available resource
+It’s as essential as physics, I’m told
+

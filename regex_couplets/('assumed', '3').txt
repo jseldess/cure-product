@@ -1,0 +1,10 @@
+
+('assumed', '3')
+
+I assumed it was visible
+13
+
+I assumed 
+3 [PASSWORDS]
+
+I assumed that they were divisible

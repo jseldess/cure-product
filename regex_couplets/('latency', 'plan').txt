@@ -1,0 +1,9 @@
+
+('latency', 'plan')
+
+with latency from constituents
+and for which the plan agreed
+
+latency which doesn’t mean anything
+and to which the plan agreed
+

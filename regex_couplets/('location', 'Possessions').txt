@@ -1,0 +1,9 @@
+
+('location', 'Possessions')
+
+I learned my location
+Possessions 
+
+I returned to location
+Possessions people
+

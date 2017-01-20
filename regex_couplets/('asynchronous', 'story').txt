@@ -1,0 +1,9 @@
+
+('asynchronous', 'story')
+
+asynchronous 
+I told her a story, she drew waves.
+
+slow asynchronous
+Forecasting the story before dawn
+

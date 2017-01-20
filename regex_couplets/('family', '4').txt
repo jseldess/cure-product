@@ -1,0 +1,9 @@
+
+('family', '4')
+
+Then I constellate my time family country
+14
+
+So I constellate the time family country
+4
+

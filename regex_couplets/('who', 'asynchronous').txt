@@ -1,0 +1,10 @@
+
+('who', 'asynchronous')
+
+Ask who I am to suspend
+asynchronous 
+
+who knows the way
+slow asynchronous
+
+For whom drifting does not feel an exception

@@ -1,0 +1,10 @@
+
+('back', 'slow')
+
+The sun is still sleeping? Well, then I’m going back to sleep, too.
+slow
+
+So I went back to sleep
+slow asynchronous
+
+I keep turning back again myself

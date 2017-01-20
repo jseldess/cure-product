@@ -1,0 +1,9 @@
+
+('COPY', 'marshal')
+
+COPY DREAM 
+Thou marshall’st me the way that I was going
+
+COPY
+It’s not marshal exactly
+

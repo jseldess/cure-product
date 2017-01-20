@@ -1,0 +1,9 @@
+
+('phrase', 'buffer')
+
+phrase them of my possessions
+between tracked and buffered
+
+phrase them of our possessions
+tracked between buffered and sizes
+

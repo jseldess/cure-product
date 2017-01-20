@@ -1,0 +1,9 @@
+
+('want', 'remind')
+
+When I want something
+I let it remind me again
+
+I want to cite a poem so usual
+and come home to remind inflections
+

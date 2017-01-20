@@ -1,0 +1,9 @@
+
+('pronounced', 'graph')
+
+Which can be pronounced to the world
+graphic
+
+which can be pronounced 
+could map to the dimnsions of a graph
+

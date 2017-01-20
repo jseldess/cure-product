@@ -1,0 +1,10 @@
+
+('afterimage', 'POST')
+
+I captured an afterimage
+POST SONG
+
+I watch a moving afterimage
+POST
+
+I capture an afterimage

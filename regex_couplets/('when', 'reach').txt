@@ -1,0 +1,10 @@
+
+('When', 'reach')
+
+When I woke up in the morning
+I reach repeated expressions first
+
+When I want something
+And reached up the screen
+
+When I'm watching my tv 

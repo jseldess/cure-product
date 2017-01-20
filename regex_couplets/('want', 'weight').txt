@@ -1,0 +1,9 @@
+
+('want', 'weight')
+
+When I want something
+I tell you the weight of my purchases
+
+I want to cite a poem so usual
+The weight kept moaned impression
+

@@ -1,0 +1,10 @@
+
+('damage', 'graspable')
+
+without ensuing damage
+having been graspable
+
+while consuming damage
+And for an ungraspable time
+
+without consumer damage

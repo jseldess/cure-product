@@ -1,0 +1,9 @@
+
+('value', 'rise')
+
+Then I cannot see face value
+to see the sunrise
+
+And as an extension of the values
+they should rise up
+

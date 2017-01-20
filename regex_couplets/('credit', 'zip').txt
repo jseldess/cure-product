@@ -1,0 +1,9 @@
+
+('credit', 'zip')
+
+without accounting for credit
+I click my zipcode up where it should be down
+
+I could in effect credit
+zipcode
+

@@ -1,0 +1,10 @@
+
+('word', 'capture')
+
+falling off the end of the word
+I captured an afterimage
+
+missing words
+I capture an afterimage
+
+full of the missing words

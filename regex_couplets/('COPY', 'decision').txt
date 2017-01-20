@@ -1,0 +1,9 @@
+
+('COPY', 'decision')
+
+COPY DREAM 
+attributable decisions
+
+COPY
+forgetting decisions 
+

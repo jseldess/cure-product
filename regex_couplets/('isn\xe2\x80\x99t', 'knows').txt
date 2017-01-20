@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'knows')
+
+The sun isn’t up 
+who knows the way
+
+The edge isn’t even there
+who knows how to turn it off
+

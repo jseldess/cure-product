@@ -1,0 +1,9 @@
+
+('spots', 'confidence')
+
+white spots on a black surface
+If you have confidence regardless all else
+
+black spots on a white surface
+Which can be called confidence
+

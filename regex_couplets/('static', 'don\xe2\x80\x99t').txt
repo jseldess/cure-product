@@ -1,0 +1,9 @@
+
+('static', 'don\xe2\x80\x99t')
+
+wrapped in static and explicit statements
+I walk up and don’t work anymore
+
+while wrapped in explicit static
+I only think I don’t listen
+

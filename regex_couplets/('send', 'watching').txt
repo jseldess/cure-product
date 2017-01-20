@@ -1,0 +1,9 @@
+
+('send', 'watching')
+
+I send and retrieve the impulse
+When I'm watching my tv 
+
+where I send and relive
+where I’m watching my tv
+

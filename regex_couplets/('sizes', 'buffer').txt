@@ -1,0 +1,10 @@
+
+('sizes', 'buffer')
+
+sizes track for asking sound
+between tracked and buffered
+
+tracked between buffered and sizes
+in track and buffer 
+
+sizes asking for tracking sound

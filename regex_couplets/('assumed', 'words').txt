@@ -1,0 +1,10 @@
+
+('assumed', 'words')
+
+I assumed it was visible
+missing words
+
+I assumed 
+passwords 
+
+I assumed that they were divisible

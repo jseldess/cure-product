@@ -1,0 +1,10 @@
+
+('who', 'intend')
+
+Ask who I am to suspend
+I intend my connections
+
+You should ask who I am
+I intend my live connections to you
+
+Ask who I am to end my live connection

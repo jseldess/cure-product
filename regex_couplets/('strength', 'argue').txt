@@ -1,0 +1,9 @@
+
+('strength', 'argue')
+
+The strength of the habits
+I argued the days felt longer
+
+is a function of the strength
+I argued the days were longer
+

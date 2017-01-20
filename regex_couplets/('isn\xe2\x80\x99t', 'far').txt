@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'far')
+
+The sun isn’t up 
+as far as I can see
+
+The edge isn’t even there
+as far back as my history heard
+

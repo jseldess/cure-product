@@ -1,0 +1,10 @@
+
+('speak', 'entered')
+
+not speaking
+I have entered my phone
+
+I speak them of my possessions
+I had entered my phone
+
+speak them of my possessions

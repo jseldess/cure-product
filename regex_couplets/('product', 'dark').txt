@@ -1,0 +1,10 @@
+
+('product', 'dark')
+
+an impure product
+But it’s dark outside. It’s still nightime.
+
+What is an impure product
+Because it was really dark
+
+as a cure product

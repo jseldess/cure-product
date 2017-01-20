@@ -1,0 +1,10 @@
+
+('Why', 'slow')
+
+Why isn’t the sun up? Is the sun lazy?
+slow
+
+Why and how do I come to keep that work and this separate?
+slow asynchronous
+
+Why isn’t the sun upIt’s time to wake up

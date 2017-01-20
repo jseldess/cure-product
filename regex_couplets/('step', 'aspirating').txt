@@ -1,0 +1,10 @@
+
+('step', 'ASPIRATING')
+
+I step off the edge
+ASPIRATING
+
+What the next step
+ASPIRATING VISIONS
+
+from which to step off

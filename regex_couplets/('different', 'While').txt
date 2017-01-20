@@ -1,0 +1,9 @@
+
+('different', 'while')
+
+If I take a different measure
+while wrapped in static
+
+If I take some different measure
+while wrapped in explicit static
+

@@ -1,0 +1,9 @@
+
+('strength', 'air')
+
+The strength of the habits
+and key value pairs
+
+is a function of the strength
+with key value pairs
+

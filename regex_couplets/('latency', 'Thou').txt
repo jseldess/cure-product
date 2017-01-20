@@ -1,0 +1,9 @@
+
+('latency', 'Thou')
+
+with latency from constituents
+Though we are waiting 
+
+latency which doesn’t mean anything
+Though we are waiting for her
+

@@ -1,0 +1,9 @@
+
+('COPY', 'log')
+
+COPY DREAM 
+I used my technology
+
+COPY
+and other types of tracking technology
+

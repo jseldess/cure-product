@@ -1,0 +1,10 @@
+
+('value', 'retinas')
+
+Then I cannot see face value
+across the retinas
+
+And as an extension of the values
+aside from the retinas
+
+As an extension of the values

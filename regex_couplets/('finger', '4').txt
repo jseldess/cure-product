@@ -1,0 +1,9 @@
+
+('finger', '4')
+
+I take hold of my finger
+14
+
+When they really take hold of my finger
+4
+

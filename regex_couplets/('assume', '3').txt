@@ -1,0 +1,10 @@
+
+('assume', '3')
+
+I assumed it was visible
+13
+
+I assumed 
+3 [PASSWORDS]
+
+I assume the offers reliable

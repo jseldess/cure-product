@@ -1,0 +1,9 @@
+
+('grasp', 'suspenders')
+
+having been graspable
+I wear suspenders
+
+And for an ungraspable time
+suspenders
+

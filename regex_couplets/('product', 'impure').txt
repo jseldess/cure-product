@@ -1,0 +1,10 @@
+
+('product', 'impure')
+
+an impure product
+What is an impure product
+
+as a cure product
+as an impure product
+
+as a pure product

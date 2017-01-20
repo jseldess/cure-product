@@ -1,0 +1,9 @@
+
+('purchased', 'capture')
+
+purchased out
+I captured an afterimage
+
+having been purchased out
+I capture an afterimage
+

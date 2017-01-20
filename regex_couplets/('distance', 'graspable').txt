@@ -1,0 +1,10 @@
+
+('distance', 'graspable')
+
+Falling from this distance
+having been graspable
+
+And from a weak distance
+And for an ungraspable time
+
+And from that great distance

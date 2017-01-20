@@ -1,0 +1,9 @@
+
+('spots', 'get')
+
+white spots on a black surface
+I get through there
+
+black spots on a white surface
+forgetting decisions 
+

@@ -1,0 +1,10 @@
+
+('world', 'encoded')
+
+off the edge of the world
+falling off the encoded end
+
+off the end of the world
+encoded off the end
+
+hauling off the end of the world

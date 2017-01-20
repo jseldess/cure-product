@@ -1,0 +1,10 @@
+
+('next', 'bid')
+
+What the next step
+your bid to the next highest ranked network
+
+the next network in your ranking
+I am bid to act again
+
+I invited most of what came next

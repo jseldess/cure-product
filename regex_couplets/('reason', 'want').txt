@@ -1,0 +1,16 @@
+
+('reason', 'want')
+
+reasons resources
+When I want something
+
+with reasons
+I want to cite a poem
+
+with little reason to move
+all that I can think I want
+
+Toward the start informally given my reasons
+I want to cite a poem so usual
+
+More reasons around my country 

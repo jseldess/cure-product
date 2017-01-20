@@ -1,0 +1,9 @@
+
+('available', 'story')
+
+Then the sun isn’t available
+Forecasting the story before dawn
+
+or an available resource
+as far back as my history heard
+

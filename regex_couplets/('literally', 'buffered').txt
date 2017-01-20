@@ -1,0 +1,9 @@
+
+('literally', 'buffered')
+
+and literally moved
+between tracked and buffered
+
+not literally moved about
+tracked between buffered and sizes
+

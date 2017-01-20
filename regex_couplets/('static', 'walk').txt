@@ -1,0 +1,9 @@
+
+('static', 'walk')
+
+wrapped in static and explicit statements
+I walk up and don’t work anymore
+
+while wrapped in explicit static
+walking into percents blending themselves
+

@@ -1,0 +1,10 @@
+
+('assumed', 'it\xe2\x80\x99s')
+
+I assumed it was visible
+But it’s dark outside. It’s still nightime.
+
+I assumed 
+and it’s not literal
+
+I assumed what I draw

@@ -1,0 +1,12 @@
+
+('loyal', 'stays')
+
+own stays brought loyal
+own that stays brought loyal
+
+that stays brought loyal
+home stays brought loyal
+
+own stays bought loyal
+bought stays own loyal
+

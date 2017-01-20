@@ -1,0 +1,9 @@
+
+('COPY', 'else')
+
+COPY DREAM 
+Or in some imaginary elsewhere
+
+COPY
+and elsewhere my memory
+

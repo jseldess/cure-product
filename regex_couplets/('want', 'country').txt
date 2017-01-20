@@ -1,0 +1,12 @@
+
+('want', 'country')
+
+When I want something
+Then I constellate my time family country
+
+I want to cite a poem so usual
+So I constellate the time family country
+
+I want to cite a poem
+around my country 
+

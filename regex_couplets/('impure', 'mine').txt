@@ -1,0 +1,9 @@
+
+('impure', 'mine')
+
+an impure product
+They’re just not mine
+
+as an impure product
+The third letter from the end is mine
+

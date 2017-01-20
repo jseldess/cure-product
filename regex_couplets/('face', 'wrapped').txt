@@ -1,0 +1,10 @@
+
+('face', 'wrapped')
+
+Then I cannot see face value
+wrapped in static and explicit statements
+
+black spots on a white surface
+wrapped in static
+
+white spots on a black surface

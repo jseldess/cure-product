@@ -1,0 +1,9 @@
+
+('morning', 'it\xe2\x80\x99s')
+
+We’ll have coffee this morning
+But it’s dark outside. It’s still nightime.
+
+No! It’s morning, but the sun isn’t up yet.
+and it’s not literal
+

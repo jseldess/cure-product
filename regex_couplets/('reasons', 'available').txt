@@ -1,0 +1,10 @@
+
+('reasons', 'available')
+
+reasons resources
+Then the sun isn’t available
+
+with reasons
+or an available resource
+
+with little reasons to aspiration

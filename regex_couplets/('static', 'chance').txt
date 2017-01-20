@@ -1,0 +1,9 @@
+
+('static', 'chance')
+
+wrapped in static and explicit statements
+attesting this is a chance
+
+while wrapped in explicit static
+This is your chance
+

@@ -1,0 +1,16 @@
+
+('state', 'wrapped')
+
+explicit statements
+wrapped in static and explicit statements
+
+wrapped in static implicit statements
+wrapped in static
+
+I need an explicit statement
+while wrapped in static
+
+which I needed for an explicit state
+while wrapped in explicit static
+
+like state mirror

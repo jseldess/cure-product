@@ -1,0 +1,10 @@
+
+('see', 'washed')
+
+Then I cannot see face value
+washed by my memory
+
+Having seen more than 
+washed
+
+being seen by me

@@ -1,0 +1,10 @@
+
+('consume', 'COPY')
+
+I continue to consume
+COPY DREAM 
+
+I could consume the dream
+COPY
+
+without consumer damage

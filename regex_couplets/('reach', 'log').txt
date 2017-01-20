@@ -1,0 +1,9 @@
+
+('reach', 'log')
+
+I reach repeated expressions first
+I logged in
+
+And reached up the screen
+I used my technology
+

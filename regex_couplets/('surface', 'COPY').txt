@@ -1,0 +1,9 @@
+
+('surface', 'COPY')
+
+white spots on a black surface
+COPY DREAM 
+
+black spots on a white surface
+COPY
+

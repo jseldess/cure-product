@@ -1,0 +1,10 @@
+
+('first', 'later')
+
+I reach repeated expressions first
+of later results
+
+I am first in the office 
+out of later results
+
+I am the first in the office

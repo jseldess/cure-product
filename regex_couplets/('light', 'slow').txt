@@ -1,0 +1,10 @@
+
+('light', 'slow')
+
+variegated reflected light
+slow
+
+variegated reflected retroactive reactive light
+slow asynchronous
+
+stopped light with validated fields

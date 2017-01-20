@@ -1,0 +1,10 @@
+
+('watch', 'COPY')
+
+when watching tv
+COPY DREAM 
+
+I watch a movie
+COPY
+
+I watch a moving afterimage

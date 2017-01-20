@@ -1,0 +1,9 @@
+
+('sleeping', 'doesn\xe2\x80\x99t')
+
+The sun is still sleeping? Well, then I’m going back to sleep, too.
+No! The sun doesn’t sleep. The sun isn’t up!
+
+While I should be sleeping
+and it doesn’t take long
+

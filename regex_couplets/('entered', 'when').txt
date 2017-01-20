@@ -1,0 +1,10 @@
+
+('entered', 'When')
+
+I have entered my phone
+When I want something
+
+I have entered my purposes
+When I'm watching my tv 
+
+I had entered my phone

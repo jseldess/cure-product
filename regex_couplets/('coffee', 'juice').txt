@@ -1,0 +1,10 @@
+
+('coffee', 'juice')
+
+We’ll have coffee this morning
+Sweets and coffee and juice
+
+Sweets and coffee
+ and juice
+
+iced coffee and sun position

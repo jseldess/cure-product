@@ -1,0 +1,10 @@
+
+('product', 'times')
+
+an impure product
+where I sleep at times
+
+as an impure product
+That’s where I sleep at times
+
+as a pure product

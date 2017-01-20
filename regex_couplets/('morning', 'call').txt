@@ -1,0 +1,9 @@
+
+('morning', 'call')
+
+We’ll have coffee this morning
+not calling or echoing for once
+
+before morning goals
+They are called aspirational
+

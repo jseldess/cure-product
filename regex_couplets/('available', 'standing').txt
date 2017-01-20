@@ -1,0 +1,9 @@
+
+('available', 'standing')
+
+Then the sun isn’t available
+hovering above standing water
+
+or an available resource
+my standing in data
+

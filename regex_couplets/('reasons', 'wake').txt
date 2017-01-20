@@ -1,0 +1,10 @@
+
+('reasons', 'wake')
+
+reasons resources
+It’s time to wake up, Papa!
+
+with reasons
+Why isn’t the sun upIt’s time to wake up
+
+with little reasons to aspiration

@@ -1,0 +1,9 @@
+
+('available', 'ring')
+
+Then the sun isn’t available
+ring
+
+or an available resource
+actually considering the end
+

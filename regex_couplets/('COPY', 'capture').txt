@@ -1,0 +1,9 @@
+
+('COPY', 'capture')
+
+COPY DREAM 
+I captured an afterimage
+
+COPY
+I capture an afterimage
+

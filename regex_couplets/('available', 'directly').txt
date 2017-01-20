@@ -1,0 +1,9 @@
+
+('available', 'directly')
+
+Then the sun isn’t available
+But not to me directly
+
+or an available resource
+The sun high enough to enter directly 
+

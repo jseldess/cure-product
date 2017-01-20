@@ -1,0 +1,10 @@
+
+('step', '5')
+
+I step off the edge
+15
+
+I step over the edge
+5
+
+step in by the prospect

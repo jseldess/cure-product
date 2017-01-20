@@ -1,0 +1,9 @@
+
+('stream', '4')
+
+into the stream of pictures
+14
+
+I can find a way to block it in the incoming stream
+4
+

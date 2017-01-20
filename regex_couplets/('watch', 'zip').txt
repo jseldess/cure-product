@@ -1,0 +1,10 @@
+
+('watch', 'zip')
+
+when watching tv
+I click my zipcode up where it should be down
+
+I watch a movie
+zipcode
+
+where I’m watching my tv

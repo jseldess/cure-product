@@ -1,0 +1,10 @@
+
+('value', 'office')
+
+Then I cannot see face value
+I am first in the office 
+
+value falling off the edge of the face
+I am the first in the office
+
+The CEO tells me to embody values

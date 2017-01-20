@@ -1,0 +1,9 @@
+
+('values', 'need')
+
+And as an extension of the values
+Then I can’t presume to need others
+
+The CEO tells me to embody values
+I need the work
+

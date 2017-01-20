@@ -1,0 +1,9 @@
+
+('available', 'contented')
+
+Then the sun isn’t available
+After having been contented
+
+or available
+after having been contented Strategy comes before morning
+

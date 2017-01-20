@@ -1,0 +1,9 @@
+
+('surface', 'mean')
+
+white spots on a black surface
+My means without gravity
+
+black spots on a white surface
+latency which doesn’t mean anything
+

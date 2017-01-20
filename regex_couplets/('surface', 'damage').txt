@@ -1,0 +1,9 @@
+
+('surface', 'damage')
+
+white spots on a black surface
+without ensuing damage
+
+black spots on a white surface
+while consuming damage
+

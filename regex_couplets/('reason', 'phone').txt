@@ -1,0 +1,13 @@
+
+('reason', 'phone')
+
+reasons resources
+I have entered my phone
+
+with reasons
+reflexing indented in my phone
+
+More reasons around my country 
+I had entered my phone
+
+and could be inflected with reasons

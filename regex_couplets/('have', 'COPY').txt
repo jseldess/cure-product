@@ -1,0 +1,10 @@
+
+('have', 'COPY')
+
+We’ll have coffee this morning
+COPY DREAM 
+
+I have supporters
+COPY
+
+I have a memory between the day

@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'learned')
+
+The sun isn’t up 
+learned without too much difficulty to code
+
+Then the sun isn’t up
+I learned my location
+

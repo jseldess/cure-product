@@ -1,0 +1,9 @@
+
+('knows', 'words')
+
+who knows the way
+missing words
+
+who knows how to turn it off
+passwords 
+

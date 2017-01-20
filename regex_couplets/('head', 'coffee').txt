@@ -1,0 +1,9 @@
+
+('head', 'coffee')
+
+Without a head
+Sweets and coffee and juice
+
+Strange things I have in head, that will to hand,
+iced coffee and sun position
+

@@ -1,0 +1,13 @@
+
+('watch', 'saw')
+
+when watching tv
+Then I saw into you
+
+in the sense of watching
+that I saw
+
+I watch a movie
+Then I saw them interview
+
+When I'm watching my tv 

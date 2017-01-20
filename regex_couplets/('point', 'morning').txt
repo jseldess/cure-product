@@ -1,0 +1,10 @@
+
+('point', 'morning')
+
+But that is beside the point
+We’ll have coffee this morning
+
+Whereas direction is beside the point
+No! It’s morning, but the sun isn’t up yet.
+
+from no one point

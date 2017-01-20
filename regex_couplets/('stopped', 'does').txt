@@ -1,0 +1,9 @@
+
+('stopped', 'does')
+
+stopped light with validated variegated fields
+does not feel an exception
+
+stopped light with validated fields
+and it doesn’t take long
+

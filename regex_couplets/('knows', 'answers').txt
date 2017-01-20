@@ -1,0 +1,9 @@
+
+('knows', 'answers')
+
+who knows the way
+the duration of answers
+
+who knows how to turn it off
+for the duration of answers
+

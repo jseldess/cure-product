@@ -1,0 +1,9 @@
+
+('product', '4')
+
+an impure product
+14
+
+the least productive of myself
+4
+

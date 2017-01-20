@@ -1,0 +1,10 @@
+
+('have', 'slow')
+
+We’ll have coffee this morning
+slow
+
+I have entered my phone
+slow asynchronous
+
+if you have providence to excess

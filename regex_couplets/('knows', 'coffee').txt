@@ -1,0 +1,9 @@
+
+('knows', 'coffee')
+
+who knows the way
+Sweets and coffee and juice
+
+who knows how to turn it off
+iced coffee and sun position
+

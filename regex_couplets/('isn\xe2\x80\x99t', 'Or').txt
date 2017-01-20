@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'Or')
+
+The sun isn’t up 
+Or the company
+
+Then the sun isn’t available
+Or in some imaginary elsewhere
+

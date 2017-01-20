@@ -1,0 +1,9 @@
+
+('study', '3')
+
+To neither study
+13
+
+To substitute neither study
+3 [PASSWORDS]
+

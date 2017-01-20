@@ -1,0 +1,9 @@
+
+('click', 'zip')
+
+I click my zipcode up where it should be down
+I click or my zipcode
+
+Is the weight of my click or zipcode
+zipcode
+

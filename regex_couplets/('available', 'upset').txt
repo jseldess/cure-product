@@ -1,0 +1,9 @@
+
+('available', 'upset')
+
+Then the sun isn’t available
+upset by Gingrich
+
+or an available resource
+Um, upset by Gingrich
+

@@ -1,0 +1,9 @@
+
+('zipcode', 'requesting')
+
+I click my zipcode up where it should be down
+I am requesting my point
+
+zipcode
+requesting my standing
+

@@ -1,0 +1,10 @@
+
+('gravity', 'COPY')
+
+and testing the edge and gravity
+COPY DREAM 
+
+where I need gravity
+COPY
+
+that nothing had gravity

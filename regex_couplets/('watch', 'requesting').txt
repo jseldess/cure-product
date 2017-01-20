@@ -1,0 +1,9 @@
+
+('watch', 'requesting')
+
+when watching tv
+I am requesting my point
+
+When I'm watching my tv 
+requesting my standing
+

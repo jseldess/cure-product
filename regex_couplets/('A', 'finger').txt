@@ -1,0 +1,10 @@
+
+('A', 'finger')
+
+Arrayed
+I take hold of my finger
+
+BREAK
+When they really take hold of my finger
+
+And as an extension of the values

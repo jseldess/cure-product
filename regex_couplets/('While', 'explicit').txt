@@ -1,0 +1,10 @@
+
+('while', 'explicit')
+
+Looking back while I should be sleeping
+explicit statements
+
+while wrapped in static
+I need an explicit statement
+
+while wrapped in explicit static

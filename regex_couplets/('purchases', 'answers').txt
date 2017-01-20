@@ -1,0 +1,9 @@
+
+('purchases', 'answers')
+
+I tell you the weight of my purchases
+the duration of answers
+
+for my own purchases
+for the duration of answers
+

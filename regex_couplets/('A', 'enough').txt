@@ -1,0 +1,9 @@
+
+('A', 'enough')
+
+Arrayed
+The sun high enough to enter directly 
+
+A defeated
+The sun high enough to strike directly
+

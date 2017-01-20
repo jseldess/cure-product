@@ -1,0 +1,10 @@
+
+('but', 'office')
+
+No! It’s morning, but the sun isn’t up yet.
+I am first in the office 
+
+Attributable or
+I am the first in the office
+
+but the sun isn’t up

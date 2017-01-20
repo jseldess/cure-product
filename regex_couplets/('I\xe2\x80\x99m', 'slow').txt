@@ -1,0 +1,10 @@
+
+('I\xe2\x80\x99m', 'slow')
+
+The sun is still sleeping? Well, then I’m going back to sleep, too.
+slow
+
+I’m simply inside
+slow asynchronous
+
+Right now I’m the cart

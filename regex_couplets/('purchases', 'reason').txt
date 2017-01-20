@@ -1,0 +1,9 @@
+
+('purchases', 'reason')
+
+I tell you the weight of my purchases
+reasons resources
+
+I have entered my purchases
+and could be inflected with reasons
+

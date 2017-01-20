@@ -1,0 +1,12 @@
+
+('face', 'words')
+
+Then I cannot see face value
+missing words
+
+black spots on a white surface
+full of the missing words
+
+white spots on a black surface
+passwords 
+

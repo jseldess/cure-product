@@ -1,0 +1,13 @@
+
+('reason', 'Is')
+
+reasons resources
+Why isn’t the sun up? Is the sun lazy?
+
+with reasons
+Is the weight of my purchases
+
+More reasons around my country 
+Is there a baby and a bear
+
+and could be inflected with reasons

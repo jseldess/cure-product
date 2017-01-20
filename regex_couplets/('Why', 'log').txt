@@ -1,0 +1,9 @@
+
+('Why', 'log')
+
+Why isn’t the sun up? Is the sun lazy?
+I logged in
+
+Why isn’t the sun upIt’s time to wake up
+I used my technology
+

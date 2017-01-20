@@ -1,0 +1,10 @@
+
+('entered', 'This')
+
+I have entered my phone
+This is your voice 
+
+I have entered my purposes
+This is your chance
+
+I have entered my purchases

@@ -1,0 +1,9 @@
+
+('slow', 'enter')
+
+slow
+I have entered my phone
+
+slow asynchronous
+The sun high enough to enter directly 
+

@@ -1,0 +1,9 @@
+
+('static', 'while')
+
+wrapped in static and explicit statements
+while wrapped in static
+
+while wrapped in explicit static
+while we’re wrapped in static
+

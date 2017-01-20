@@ -1,0 +1,10 @@
+
+('isn\xe2\x80\x99t', 'office')
+
+The sun isn’t up 
+I am first in the office 
+
+Then the sun isn’t available
+I am the first in the office
+
+Then the sun isn’t up 

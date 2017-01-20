@@ -1,0 +1,18 @@
+
+('anyone', 'block')
+
+Before anyone walks across the wide opening
+I want to find a way to block it incoming
+
+Before anyone buys up the opening
+I want to find a way to block it
+
+Before anyone walks across the opening
+I can find a way to block it incoming
+
+Before anyone has walked across the opening
+I can find a way to block incoming 
+
+Before anyone has walked across the field
+I can find a way to block it
+

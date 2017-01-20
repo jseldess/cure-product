@@ -1,0 +1,9 @@
+
+('When', 'knows')
+
+When I woke up in the morning
+who knows the way
+
+When I want something
+who knows how to turn it off
+

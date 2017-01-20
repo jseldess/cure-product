@@ -1,0 +1,10 @@
+
+('who', 'office')
+
+Ask who I am to suspend
+I am first in the office 
+
+who
+I am the first in the office
+
+whom 

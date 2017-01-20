@@ -1,0 +1,9 @@
+
+('cannot', 'buildings')
+
+Then I cannot see face value
+over the roof of the buildings across the alley
+
+in that I cannot remember 
+over the hooves and buildings across the alley
+

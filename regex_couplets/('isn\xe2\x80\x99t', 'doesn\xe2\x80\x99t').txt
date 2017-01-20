@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'doesn\xe2\x80\x99t')
+
+The sun isn’t up 
+No! The sun doesn’t sleep. The sun isn’t up!
+
+Why isn’t the sun up? Is the sun lazy?
+and it doesn’t take long
+

@@ -1,0 +1,12 @@
+
+('spots', 'state')
+
+white spots on a black surface
+explicit statements
+
+simple black spots
+I need an explicit statement
+
+black spots on a white surface
+I swayed a little in my state
+

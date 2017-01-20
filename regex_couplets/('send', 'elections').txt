@@ -1,0 +1,9 @@
+
+('send', 'elections')
+
+I send and retrieve the impulse
+on my way to elections
+
+where I send and relive
+on a way to the elections
+
