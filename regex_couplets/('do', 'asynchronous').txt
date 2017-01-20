@@ -1,0 +1,10 @@
+
+('do', 'asynchronous')
+
+The dogs and lillies
+asynchronous 
+
+No! The sun doesn’t sleep. The sun isn’t up!
+slow asynchronous
+
+does not feel an exception

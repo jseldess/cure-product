@@ -1,0 +1,9 @@
+
+('phone', 'remind')
+
+I have entered my phone
+I let it remind me again
+
+I had entered my phone
+and come home to remind inflections
+

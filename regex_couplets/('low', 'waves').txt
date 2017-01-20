@@ -1,0 +1,9 @@
+
+('low', 'waves')
+
+slow
+I told her a story, she drew waves.
+
+slow asynchronous
+with her waves
+

@@ -1,0 +1,9 @@
+
+('available', 'above')
+
+Then the sun isn’t available
+hovering above standing water
+
+or an available resource
+Running above broadway
+

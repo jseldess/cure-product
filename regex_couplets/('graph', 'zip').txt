@@ -1,0 +1,9 @@
+
+('graph', 'zip')
+
+graphic
+May I have your zip code
+
+could map to the dimnsions of a graph
+I click my zipcode up where it should be down
+

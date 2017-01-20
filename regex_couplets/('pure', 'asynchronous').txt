@@ -1,0 +1,10 @@
+
+('pure', 'asynchronous')
+
+an impure product
+asynchronous 
+
+as pure as my children
+slow asynchronous
+
+as pure as my children Walt Whitman

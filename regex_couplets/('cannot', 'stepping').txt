@@ -1,0 +1,9 @@
+
+('cannot', 'stepping')
+
+Then I cannot see face value
+stepping in the middle
+
+in that I cannot remember 
+stepping off into the middle
+

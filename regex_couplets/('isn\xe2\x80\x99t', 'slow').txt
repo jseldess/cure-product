@@ -1,0 +1,10 @@
+
+('isn\xe2\x80\x99t', 'slow')
+
+The sun isn’t up 
+slow
+
+No! It’s morning, but the sun isn’t up yet.
+slow asynchronous
+
+Then the sun isn’t available

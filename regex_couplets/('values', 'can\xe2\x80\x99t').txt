@@ -1,0 +1,12 @@
+
+('values', 'can\xe2\x80\x99t')
+
+And as an extension of the values
+Then I can’t presume to need others
+
+The CEO tells me to embody values
+That can’t be glimpsed
+
+I tried to feel the key values extending 
+Though we can’t help waiting
+

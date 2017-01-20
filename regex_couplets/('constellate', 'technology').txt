@@ -1,0 +1,9 @@
+
+('constellate', 'technology')
+
+Then I constellate my time family country
+I used my technology
+
+So I constellate the time family country
+and other types of tracking technology
+

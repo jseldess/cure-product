@@ -1,0 +1,9 @@
+
+('latency', 'imagine')
+
+with latency from constituents
+on behalf of imagined
+
+and latency found
+or imagined anyway
+

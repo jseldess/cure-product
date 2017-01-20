@@ -1,0 +1,9 @@
+
+('COPY', 'wait')
+
+COPY DREAM 
+There are spots waiting
+
+COPY
+Though we are waiting for her
+

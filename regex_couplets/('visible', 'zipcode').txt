@@ -1,0 +1,10 @@
+
+('visible', 'zipcode')
+
+I assumed it was visible
+I click my zipcode up where it should be down
+
+I assume the offers divisible
+zipcode
+
+that they were divisible

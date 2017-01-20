@@ -1,0 +1,9 @@
+
+('available', 'tree')
+
+Then the sun isn’t available
+The leaves curdled on the tree out front
+
+or an available resource
+redbud and cherry and one wild apple tree
+

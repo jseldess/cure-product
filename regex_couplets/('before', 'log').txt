@@ -1,0 +1,9 @@
+
+('Before', 'log')
+
+Before we walk across the wide field
+I logged in
+
+Before morning goals
+I used my technology
+

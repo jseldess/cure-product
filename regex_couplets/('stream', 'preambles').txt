@@ -1,0 +1,9 @@
+
+('stream', 'preambles')
+
+into the stream of pictures
+by the private preambles
+
+I can find a way to block it in the incoming stream
+between the preambles
+

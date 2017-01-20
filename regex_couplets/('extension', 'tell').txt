@@ -1,0 +1,12 @@
+
+('extension', 'tell')
+
+And as an extension of the values
+Then I constellate my time family country
+
+I tried to feel the extension of key values
+I had to tell them the news
+
+As an extension of the values
+So I constellate the time family country
+

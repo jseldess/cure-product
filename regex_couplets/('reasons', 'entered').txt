@@ -1,0 +1,10 @@
+
+('reasons', 'entered')
+
+reasons resources
+I have entered my phone
+
+with reasons
+I have entered my purposes
+
+and could be inflected with reasons

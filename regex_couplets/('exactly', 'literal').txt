@@ -1,0 +1,10 @@
+
+('exactly', 'literal')
+
+It’s not marshal exactly
+not literally moved about
+
+I turn not sad exactly
+not literally moved
+
+I return not sad exactly

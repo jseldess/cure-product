@@ -1,0 +1,9 @@
+
+('spots', 'earn')
+
+white spots on a black surface
+where you can earn more 
+
+but they are black spots
+decisioned to learn 
+

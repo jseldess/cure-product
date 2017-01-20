@@ -1,0 +1,10 @@
+
+('gravity', 'grasp')
+
+and testing the edge and gravity
+having been graspable
+
+where I need gravity
+And for an ungraspable time
+
+Where I lead gravity

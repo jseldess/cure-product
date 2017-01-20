@@ -1,0 +1,10 @@
+
+('send', 'answers')
+
+I send and retrieve the impulse
+the duration of answers
+
+where I send and receive
+for the duration of answers
+
+where I send and relive

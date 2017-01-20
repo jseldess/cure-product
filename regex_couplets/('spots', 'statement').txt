@@ -1,0 +1,10 @@
+
+('spots', 'statement')
+
+white spots on a black surface
+explicit statements
+
+simple black spots
+I need an explicit statement
+
+black spots on a white surface

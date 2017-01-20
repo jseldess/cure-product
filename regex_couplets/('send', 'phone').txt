@@ -1,0 +1,9 @@
+
+('send', 'phone')
+
+I send and retrieve the impulse
+I have entered my phone
+
+where I send and relive would be held
+I had entered my phone
+

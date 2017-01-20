@@ -1,0 +1,10 @@
+
+('face', 'damage')
+
+Then I cannot see face value
+without ensuing damage
+
+black spots on a white surface
+while consuming damage
+
+white spots on a black surface

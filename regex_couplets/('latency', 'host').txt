@@ -1,0 +1,9 @@
+
+('latency', 'host')
+
+with latency from constituents
+Where in me did I host
+
+latency which doesn’t mean anything
+my sight hosting
+

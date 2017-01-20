@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'mine')
+
+The sun isn’t up 
+They’re just not mine
+
+The edge isn’t even there
+The third letter from the end is mine
+

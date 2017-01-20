@@ -1,0 +1,9 @@
+
+('impure', 'call')
+
+an impure product
+not calling or echoing for once
+
+What is an impure product
+though it was most emphatically that
+

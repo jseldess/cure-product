@@ -1,0 +1,9 @@
+
+('latency', 'fill')
+
+with latency from constituents
+in the form filled offered in trust
+
+latency which doesn’t mean anything
+in the form filled offered trust
+

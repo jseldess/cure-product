@@ -1,0 +1,12 @@
+
+('measure', 'while')
+
+Which is a measure to never live out
+Looking back while I should be sleeping
+
+If I take a different measure
+while wrapped in static
+
+If I take some different measure
+while wrapped in explicit static
+

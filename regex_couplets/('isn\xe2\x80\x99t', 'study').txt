@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'study')
+
+The sun isn’t up 
+To neither study
+
+Then the sun isn’t available
+To substitute neither study
+

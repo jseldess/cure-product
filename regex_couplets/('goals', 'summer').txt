@@ -1,0 +1,10 @@
+
+('goals', 'summer')
+
+Though there are quarters goals
+Then fall then summer
+
+and without quartely goals
+summer
+
+before morning goals

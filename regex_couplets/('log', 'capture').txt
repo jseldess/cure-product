@@ -1,0 +1,10 @@
+
+('log', 'capture')
+
+I logged in
+I captured an afterimage
+
+I used my technology
+I capture an afterimage
+
+and other types of tracking technology

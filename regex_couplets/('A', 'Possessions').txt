@@ -1,0 +1,10 @@
+
+('A', 'Possessions')
+
+Arrayed
+Possessions 
+
+3 [PASSWORDS]
+Possessions people
+
+2 – PREAMBLE

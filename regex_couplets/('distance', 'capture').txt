@@ -1,0 +1,9 @@
+
+('distance', 'capture')
+
+Falling from this distance
+I captured an afterimage
+
+And from a weak distance
+I capture an afterimage
+

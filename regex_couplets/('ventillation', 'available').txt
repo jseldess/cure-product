@@ -1,0 +1,10 @@
+
+('ventillation', 'available')
+
+I am told ventillation
+Then the sun isn’t available
+
+I am told by no ventillation
+or available
+
+by no ventillation my purpose

@@ -1,0 +1,10 @@
+
+('falling', 'available')
+
+and not falling at all
+Then the sun isn’t available
+
+Face falling off the edge of the face
+or available
+
+I see only the back of falling values

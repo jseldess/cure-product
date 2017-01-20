@@ -1,0 +1,10 @@
+
+('spots', 'wrapped')
+
+white spots on a black surface
+wrapped in static and explicit statements
+
+simple black spots
+wrapped in static
+
+black spots on a white surface

@@ -1,0 +1,9 @@
+
+('When', 'feels')
+
+When I woke up in the morning
+which feels most comfortable
+
+When I'm watching my tv 
+which feels more comfortable
+

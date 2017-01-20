@@ -1,0 +1,9 @@
+
+('cannot', 'phrase')
+
+Then I cannot see face value
+phrase them of my possessions
+
+in that I cannot remember 
+phrase them of our possessions
+

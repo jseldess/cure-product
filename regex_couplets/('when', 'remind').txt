@@ -1,0 +1,9 @@
+
+('When', 'remind')
+
+When I woke up in the morning
+I let it remind me again
+
+When I'm watching my tv 
+and come home to remind inflections
+

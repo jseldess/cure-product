@@ -1,0 +1,10 @@
+
+('value', 'quantity')
+
+Then I cannot see face value
+The days of public quantity
+
+And as an extension of the values
+The days of quantity 
+
+As an extension of the values

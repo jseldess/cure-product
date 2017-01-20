@@ -1,0 +1,10 @@
+
+('When', 'saw')
+
+When I woke up in the morning
+Then I saw into you
+
+When closed to my knowing
+that I saw
+
+When I'm watching my tv 

@@ -1,0 +1,10 @@
+
+('walk', 'slow')
+
+Before we walk across the wide field
+slow
+
+Before we walk across the wide opening
+slow asynchronous
+
+there was no walking along the pleasure

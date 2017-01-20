@@ -1,0 +1,9 @@
+
+('constellate', 'tv')
+
+Then I constellate my time family country
+when watching tv
+
+So I constellate the time family country
+When I'm watching my tv 
+

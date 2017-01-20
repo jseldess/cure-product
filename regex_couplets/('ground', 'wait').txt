@@ -1,0 +1,9 @@
+
+('ground', 'wait')
+
+no solid ground to continue along
+There are spots waiting
+
+ground for not paying
+Though we are waiting 
+

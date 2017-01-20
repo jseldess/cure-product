@@ -1,0 +1,13 @@
+
+('assumed', 'literal')
+
+I assumed it was visible
+and literally moved
+
+I assumed 
+and literally moved about
+
+I assumed what I draw
+not literally moved about
+
+I assumed that they were divisible

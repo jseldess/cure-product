@@ -1,0 +1,9 @@
+
+('anything', 'pre-worn')
+
+if there is anything 
+pre-worn in me
+
+if that has anything
+where in me pre-worn
+

@@ -1,0 +1,9 @@
+
+('did', 'data')
+
+Where in me did I host
+trackers collecting data on users
+
+Where in me did I last
+my interfaced stand data
+

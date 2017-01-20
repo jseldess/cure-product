@@ -1,0 +1,9 @@
+
+('universe', 'buffered')
+
+for the creation of the universe
+between tracked and buffered
+
+for the duration of the universe
+tracked between buffered and sizes
+

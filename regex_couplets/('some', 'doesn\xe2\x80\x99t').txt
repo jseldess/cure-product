@@ -1,0 +1,9 @@
+
+('some', 'doesn\xe2\x80\x99t')
+
+In any case, I hope it gives some pleasure, discomfort, questions, 
+and it doesn’t take long
+
+firing and connecting somewhere
+latency which doesn’t mean anything
+

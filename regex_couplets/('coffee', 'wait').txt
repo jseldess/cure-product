@@ -1,0 +1,9 @@
+
+('coffee', 'wait')
+
+We’ll have coffee this morning
+There are spots waiting
+
+iced coffee and sun position
+waiting out front or up above 
+

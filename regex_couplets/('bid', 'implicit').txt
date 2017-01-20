@@ -1,0 +1,9 @@
+
+('bid', 'implicit')
+
+your bid to the next highest ranked network
+with implicit regulations
+
+I am bid to act again
+wrapped in static implicit statements
+

@@ -1,0 +1,9 @@
+
+('COPY', 'word')
+
+COPY DREAM 
+missing words
+
+COPY
+full of the missing words
+

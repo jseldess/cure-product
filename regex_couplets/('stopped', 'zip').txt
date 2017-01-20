@@ -1,0 +1,10 @@
+
+('stopped', 'zip')
+
+stopped light with validated variegated fields
+May I have your zip code
+
+stopped light with validated fields
+zipcode
+
+stopped light with validated faces

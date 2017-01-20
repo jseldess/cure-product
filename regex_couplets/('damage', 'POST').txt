@@ -1,0 +1,10 @@
+
+('damage', 'POST')
+
+without ensuing damage
+POST SONG
+
+while consuming damage
+POST
+
+without consumer damage

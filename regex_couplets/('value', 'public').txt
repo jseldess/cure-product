@@ -1,0 +1,10 @@
+
+('value', 'public')
+
+Then I cannot see face value
+The days of public quantity
+
+And as an extension of the values
+The days of public data
+
+As an extension of the values

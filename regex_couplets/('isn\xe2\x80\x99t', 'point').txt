@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'point')
+
+The sun isn’t up 
+But that is beside the point
+
+No! It’s morning, but the sun isn’t up yet.
+from no one point
+

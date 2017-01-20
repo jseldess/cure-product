@@ -1,0 +1,9 @@
+
+('buffered', 'call')
+
+between tracked and buffered
+The many transparent pixel calls
+
+tracked between buffered and sizes
+to take the call
+

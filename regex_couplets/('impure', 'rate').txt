@@ -1,0 +1,9 @@
+
+('impure', 'rate')
+
+an impure product
+Why and how do I come to keep that work and this separate?
+
+What is an impure product
+and my heart rate
+

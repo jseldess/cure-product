@@ -1,0 +1,9 @@
+
+('goals', 'pairs')
+
+Though there are quarters goals
+and key value pairs
+
+Not goals or tactics
+with key value pairs
+

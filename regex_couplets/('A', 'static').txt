@@ -1,0 +1,10 @@
+
+('A', 'static')
+
+Arrayed
+wrapped in static and explicit statements
+
+A defeated
+while wrapped in explicit static
+
+COPY DREAM 

@@ -1,0 +1,10 @@
+
+('answered', 'enter')
+
+answered about 
+I have entered my phone
+
+I answered about
+I had entered my phone
+
+I answered while interfaced

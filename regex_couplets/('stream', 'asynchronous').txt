@@ -1,0 +1,9 @@
+
+('stream', 'asynchronous')
+
+into the stream of pictures
+asynchronous 
+
+I can find a way to block it in the incoming stream
+slow asynchronous
+

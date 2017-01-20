@@ -1,0 +1,9 @@
+
+('available', 'learning')
+
+Then the sun isn’t available
+I spend time online learning to code
+
+or an available resource
+Then I am learning to code
+

@@ -1,0 +1,9 @@
+
+('When', '4')
+
+When I woke up in the morning
+14
+
+When they really take hold of my finger
+4
+

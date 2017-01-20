@@ -1,0 +1,10 @@
+
+('sleep', 'asynchronous')
+
+Where I sleep at times
+asynchronous 
+
+The sun is still sleeping? Well, then I’m going back to sleep, too.
+slow asynchronous
+
+That’s where I sleep at times

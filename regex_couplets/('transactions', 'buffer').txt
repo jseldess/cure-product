@@ -1,0 +1,9 @@
+
+('transactions', 'buffer')
+
+to the ends of my transactions
+between tracked and buffered
+
+the other end transactions
+tracked between buffered and sizes
+

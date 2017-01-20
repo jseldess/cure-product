@@ -1,0 +1,10 @@
+
+('retrieve', 'speaking')
+
+I send and retrieve the impulse
+not speaking
+
+I send and retrieve aside the impulse
+without really speaking
+
+I stand and retrieve the impulse around

@@ -1,0 +1,9 @@
+
+('available', 'turn')
+
+Then the sun isn’t available
+I keep turning back again myself
+
+or an available resource
+who knows how to turn it off
+

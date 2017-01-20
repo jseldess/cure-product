@@ -1,0 +1,12 @@
+
+('isn\xe2\x80\x99t', 'values')
+
+The sun isn’t up 
+And as an extension of the values
+
+Then the sun isn’t available
+The CEO tells me to embody values
+
+Then the sun isn’t up
+I see only the back of falling values
+

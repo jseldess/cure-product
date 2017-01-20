@@ -1,0 +1,10 @@
+
+('entered', 'does')
+
+I have entered my phone
+does not feel an exception
+
+I have entered my purposes
+and it doesn’t take long
+
+I had entered my phone

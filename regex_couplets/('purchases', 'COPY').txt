@@ -1,0 +1,10 @@
+
+('purchases', 'COPY')
+
+I tell you the weight of my purchases
+COPY DREAM
+
+Is the weight of my purchases
+COPY
+
+I have entered my purchases

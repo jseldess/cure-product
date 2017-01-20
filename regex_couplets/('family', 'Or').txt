@@ -1,0 +1,9 @@
+
+('family', 'Or')
+
+Then I constellate my time family country
+Or the company
+
+So I constellate the time family country
+Or in some imaginary elsewhere
+

@@ -1,0 +1,10 @@
+
+('damage', 'captured')
+
+without ensuing damage
+I captured an afterimage
+
+while consuming damage
+That I captured an afterimage
+
+without consumer damage

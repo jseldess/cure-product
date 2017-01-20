@@ -1,0 +1,10 @@
+
+('distance', 'available')
+
+Falling from this distance
+Then the sun isn’t available
+
+A person from a distance
+or an available resource
+
+And from a weak distance

@@ -1,0 +1,10 @@
+
+('cannot', 'When')
+
+Then I cannot see face value
+When I woke up in the morning
+
+I cannot clear it also through divestiture
+When closed to my knowing
+
+in that I cannot remember 

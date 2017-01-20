@@ -1,0 +1,9 @@
+
+('goals', 'implicit')
+
+Though there are quarters goals
+with implicit regulations
+
+Not goals or tactics
+wrapped in static implicit statements
+

@@ -1,0 +1,12 @@
+
+('distance', 'damage')
+
+Falling from this distance
+without ensuing damage
+
+And from a weak distance
+while consuming damage
+
+And from that great distance
+without consumer damage
+

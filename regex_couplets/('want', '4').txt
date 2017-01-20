@@ -1,0 +1,9 @@
+
+('want', '4')
+
+When I want something
+14
+
+all that I can think I want
+4
+

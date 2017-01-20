@@ -1,0 +1,10 @@
+
+('impure', 'asynchronous')
+
+an impure product
+asynchronous 
+
+What is an impure product
+slow asynchronous
+
+as an impure product

@@ -1,0 +1,12 @@
+
+('isn\xe2\x80\x99t', 'reasons')
+
+The sun isn’t up 
+reasons resources
+
+No! It’s morning, but the sun isn’t up yet.
+with reasons
+
+Then the sun isn’t available
+with little reasons to aspiration
+

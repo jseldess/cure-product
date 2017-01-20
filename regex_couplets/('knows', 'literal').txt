@@ -1,0 +1,9 @@
+
+('knows', 'literal')
+
+who knows the way
+and literally moved
+
+who knows how to turn it off
+not literally moved about
+

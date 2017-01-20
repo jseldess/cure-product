@@ -1,0 +1,10 @@
+
+('send', 'speaking')
+
+I send and retrieve the impulse
+not speaking
+
+where I send and relive would be held
+without really speaking
+
+where I send and relive

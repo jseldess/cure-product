@@ -1,0 +1,10 @@
+
+('then', 'slow')
+
+Then blue and sun again a second, then night
+slow
+
+The sun is still sleeping? Well, then I’m going back to sleep, too.
+slow asynchronous
+
+Then fall then summer

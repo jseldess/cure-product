@@ -1,0 +1,10 @@
+
+('wrapped', 'statement')
+
+wrapped in static and explicit statements
+wrapped in static implicit statements
+
+wrapped in static
+I need an explicit statement
+
+while wrapped in static

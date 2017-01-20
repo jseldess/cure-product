@@ -1,0 +1,10 @@
+
+('When', 'capture')
+
+When I woke up in the morning
+I captured an afterimage
+
+When closed to my knowing
+I capture an afterimage
+
+When I'm watching my tv 

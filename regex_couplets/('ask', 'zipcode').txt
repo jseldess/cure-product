@@ -1,0 +1,10 @@
+
+('ask', 'zipcode')
+
+You should ask who I am
+I click my zipcode up where it should be down
+
+to ask in advance
+zipcode
+
+I ask say in that case

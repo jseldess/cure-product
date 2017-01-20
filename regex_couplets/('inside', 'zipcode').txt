@@ -1,0 +1,10 @@
+
+('inside', 'zipcode')
+
+I’m simply inside
+I click my zipcode up where it should be down
+
+But my not feeling the memory inside
+zipcode
+
+By my feeling the memory inside

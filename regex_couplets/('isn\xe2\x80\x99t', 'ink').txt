@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'ink')
+
+The sun isn’t up 
+ink
+
+Then the sun isn’t available
+all that I can think I want
+

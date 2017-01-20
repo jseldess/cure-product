@@ -1,0 +1,10 @@
+
+('coffee', 'it\xe2\x80\x99s')
+
+We’ll have coffee this morning
+But it’s dark outside. It’s still nightime.
+
+Sweets and coffee and juice
+and it’s not literal
+
+iced coffee and sun position

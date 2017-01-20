@@ -1,0 +1,10 @@
+
+('snow', 'available')
+
+On a snow day with my children
+Then the sun isn’t available
+
+out in the snow
+or available
+
+out in the snow fall

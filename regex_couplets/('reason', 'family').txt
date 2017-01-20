@@ -1,0 +1,10 @@
+
+('reason', 'family')
+
+reasons resources
+Then I constellate my time family country
+
+with reasons
+So I constellate the time family country
+
+Toward the start informally given my reasons

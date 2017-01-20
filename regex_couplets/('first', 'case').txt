@@ -1,0 +1,9 @@
+
+('first', 'case')
+
+I reach repeated expressions first
+only in the case
+
+I am first in the office 
+I ask say in that case
+

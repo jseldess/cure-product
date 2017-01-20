@@ -1,0 +1,10 @@
+
+('see', 'tactics')
+
+Then I cannot see face value
+and strategies not tactics
+
+I see only the back
+Not goals or tactics
+
+under the last seen principle

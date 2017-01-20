@@ -1,0 +1,9 @@
+
+('bid', 'tv')
+
+your bid to the next highest ranked network
+when watching tv
+
+I am bid to act again
+When I'm watching my tv 
+

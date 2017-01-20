@@ -1,0 +1,9 @@
+
+('value', 'ink')
+
+Then I cannot see face value
+ink
+
+value falling off the edge of the face
+all that I can think I want
+

@@ -1,0 +1,10 @@
+
+('off', 'slow')
+
+I step off the edge
+slow
+
+Face falling off the edge of the face
+slow asynchronous
+
+off the edge of the world

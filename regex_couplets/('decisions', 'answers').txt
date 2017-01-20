@@ -1,0 +1,10 @@
+
+('decisions', 'answers')
+
+the planning process for decisions
+the duration of answers
+
+forgetting decisions 
+for the duration of answers
+
+decisions that can be attributable

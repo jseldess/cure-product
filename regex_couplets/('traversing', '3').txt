@@ -1,0 +1,9 @@
+
+('traversing', '3')
+
+in traversing my purchase
+13
+
+in traversing my purpose
+3 [PASSWORDS]
+

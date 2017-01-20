@@ -1,0 +1,9 @@
+
+('isn\xe2\x80\x99t', 'reach')
+
+The sun isn’t up 
+I reach repeated expressions first
+
+The edge isn’t even there
+And reached up the screen
+

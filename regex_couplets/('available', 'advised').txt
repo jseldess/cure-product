@@ -1,0 +1,9 @@
+
+('available', 'advised')
+
+Then the sun isn’t available
+I was advised to rewind
+
+or an available resource
+advised to be retainable
+

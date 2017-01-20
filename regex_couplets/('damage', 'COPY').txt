@@ -1,0 +1,10 @@
+
+('damage', 'COPY')
+
+without ensuing damage
+COPY DREAM 
+
+while consuming damage
+COPY
+
+without consumer damage

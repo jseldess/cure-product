@@ -1,0 +1,9 @@
+
+('available', 'wish')
+
+Then the sun isn’t available
+I wish my desires were open
+
+or an available resource
+and hold and wish to hold
+

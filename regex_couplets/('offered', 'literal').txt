@@ -1,0 +1,12 @@
+
+('offered', 'literal')
+
+in the form filled offered in trust
+and literally moved
+
+in the form filled offered trust
+not literally moved about
+
+in the form filled offered must
+not literally moved
+

@@ -1,0 +1,10 @@
+
+('world', 'surface')
+
+off the edge of the world
+white spots on a black surface
+
+off the end of the world
+black spots on a white surface
+
+falling off the end of the world

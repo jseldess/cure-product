@@ -1,0 +1,9 @@
+
+('third', 'got')
+
+It’s the third letter from the end
+I just got a letter
+
+The third letter from the end is mine
+We got paid one way by a voice
+

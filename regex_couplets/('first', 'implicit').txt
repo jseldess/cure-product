@@ -1,0 +1,9 @@
+
+('first', 'implicit')
+
+I reach repeated expressions first
+with implicit regulations
+
+The first language
+wrapped in static implicit statements
+

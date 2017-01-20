@@ -1,0 +1,10 @@
+
+('data', 'zipcode')
+
+I’ll pull my data higher up
+I click my zipcode up where it should be down
+
+trackers collecting data on users
+zipcode
+
+my interfaced stand data

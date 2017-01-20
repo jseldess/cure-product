@@ -1,0 +1,9 @@
+
+('available', 'leisure')
+
+Then the sun isn’t available
+You can hear it also through your leisure
+
+or an available resource
+Having transitioned from leisure to work
+

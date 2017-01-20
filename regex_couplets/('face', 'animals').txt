@@ -1,0 +1,12 @@
+
+('face', 'animals')
+
+Then I cannot see face value
+ed animals
+
+black spots on a white surface
+between bills and stuffed animals
+
+white spots on a black surface
+bills and stuffed animals
+

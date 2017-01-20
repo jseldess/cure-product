@@ -1,0 +1,9 @@
+
+('decisions', 'forgettable')
+
+the planning process for decisions
+forgettable
+
+decisions that can be attributable
+and maybe forgettable
+

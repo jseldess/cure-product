@@ -1,0 +1,9 @@
+
+('available', 'testing')
+
+Then the sun isn’t available
+attesting this is a chance
+
+or an available resource
+and testing the edge and gravity
+

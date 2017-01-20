@@ -1,0 +1,9 @@
+
+('Arrayed', '5')
+
+Arrayed
+15
+
+Arrayed out in such a nested way
+5
+

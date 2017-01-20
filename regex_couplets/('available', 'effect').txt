@@ -1,0 +1,9 @@
+
+('available', 'effect')
+
+Then the sun isn’t available
+Some disease effecting the tree out front
+
+or an available resource
+I could in effect credit
+

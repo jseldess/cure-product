@@ -1,0 +1,10 @@
+
+('available', 'internet')
+
+Then the sun isn’t available
+high up in the internet
+
+or an available resource
+higher up in the internet
+
+or available

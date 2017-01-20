@@ -1,0 +1,9 @@
+
+('stopped', 'persisting')
+
+stopped light with validated variegated fields
+and persisting and replicating
+
+stopped light with validated fields
+in memory persisting elsewhere
+

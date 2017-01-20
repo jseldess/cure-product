@@ -1,0 +1,9 @@
+
+('mean', 'forgetting')
+
+What does it mean to drift
+forgetting decisions 
+
+latency which doesn’t mean anything
+forgetting decisions that can be attributable
+

@@ -1,0 +1,9 @@
+
+('spots', 'reason')
+
+white spots on a black surface
+reasons resources
+
+black spots on a white surface
+More reasons around my country 
+

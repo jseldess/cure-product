@@ -1,0 +1,10 @@
+
+('isn\xe2\x80\x99t', 'drifting')
+
+The sun isn’t up 
+drifting away
+
+No! It’s morning, but the sun isn’t up yet.
+drifting does not feel an exception
+
+Then the sun isn’t available

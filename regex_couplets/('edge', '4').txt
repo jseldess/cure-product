@@ -1,0 +1,9 @@
+
+('edge', '4')
+
+I step off the edge
+14
+
+off the edge of the world
+4
+

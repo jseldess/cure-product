@@ -1,0 +1,9 @@
+
+('values', 'constellate')
+
+And as an extension of the values
+Then I constellate my time family country
+
+The CEO tells me to embody values
+So I constellate the time family country
+

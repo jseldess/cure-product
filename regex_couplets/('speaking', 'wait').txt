@@ -1,0 +1,9 @@
+
+('speaking', 'wait')
+
+not speaking
+Though we are waiting for her
+
+without really speaking
+not needing to wait
+

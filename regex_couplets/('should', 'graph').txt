@@ -1,0 +1,10 @@
+
+('should', 'graph')
+
+You should ask who I am
+graphic
+
+While I should be sleeping
+could map to the dimnsions of a graph
+
+Looking back while I should be sleeping

@@ -1,0 +1,9 @@
+
+('available', 'study')
+
+Then the sun isn’t available
+To neither study
+
+or an available resource
+To substitute neither study
+
