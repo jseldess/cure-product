@@ -1,6 +1,6 @@
 # Cure Product
 
-This repository contains files used to generate materials for the **BACK UP** sections the book, **CURE PRODUCT**. It's also here to document the basic process I followed, though I ended up at this process only after a lot of experimentation.
+This repository contains files used to generate materials for the **BACK UP** sections of the book of poems, **CURE PRODUCT**. It's also here to document the basic process I followed, though I ended up at this process only after a lot of experimentation.
 
 ## Basic Process
 
