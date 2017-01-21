@@ -4,7 +4,7 @@ This repository contains files used to generate material for the **BACK UP** sec
 
 ## Basic Process
 
-1. I ran [`count_occurences.py`](count_occurences.py) on [`source.txt`](source.txt) to create [`source_occurences_words.txt`](source_occurences_word.txt), which contains a dictionary counting the occurence of each unique word in `source.txt`. 
+1. I ran [`count_occurences.py`](count_occurences.py) on [`source.txt`](source.txt) to create [`source_occurences_words.txt`](source_occurences_words.txt), which contains a dictionary counting the occurence of each unique word in `source.txt`. 
 
 2. I converted the dictionary in `source_occurences_words.txt` into a list of unique words without their counts and saved it as [`source_unique_words.py`](source_unique_words.py). 
 
