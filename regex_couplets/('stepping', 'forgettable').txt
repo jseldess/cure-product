@@ -1,9 +1,0 @@
-
-('stepping', 'forgettable')
-
-stepping in the middle
-forgettable
-
-stepping off into the middle
-and maybe forgettable
-

@@ -1,9 +1,0 @@
-
-('such', '4')
-
-Arrayed out in such a nested way
-14
-
-such as I see
-4
-

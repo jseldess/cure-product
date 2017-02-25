@@ -1,9 +1,0 @@
-
-('zipcode', 'buffer')
-
-I click my zipcode up where it should be down
-between tracked and buffered
-
-zipcode
-tracked between buffered and sizes
-

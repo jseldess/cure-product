@@ -1,9 +1,0 @@
-
-('ventillation', 'pulse')
-
-I am told ventillation
-impulse control
-
-by no ventillation my purpose
-I send and retrieve the impulse
-

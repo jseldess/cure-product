@@ -1,9 +1,0 @@
-
-('product', '3')
-
-an impure product
-13
-
-the least productive of myself
-3 [PASSWORDS]
-

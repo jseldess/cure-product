@@ -1,9 +1,0 @@
-
-('available', 'do')
-
-Then the sun isn’t available
-The dogs and lillies
-
-or an available resource
-So that I don’t notice I am the only one
-

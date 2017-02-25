@@ -1,9 +1,0 @@
-
-('tactics', 'implicit')
-
-and strategies not tactics
-with implicit regulations
-
-Not goals or tactics
-wrapped in static implicit statements
-

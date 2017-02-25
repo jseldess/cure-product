@@ -1,9 +1,0 @@
-
-('edge', 'next')
-
-I step off the edge
-What the next step
-
-and testing the edge and gravity
-What’s the next step
-

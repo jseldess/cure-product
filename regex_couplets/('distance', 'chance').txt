@@ -1,9 +1,0 @@
-
-('distance', 'chance')
-
-Falling from this distance
-attesting this is a chance
-
-A person from a distance
-This is your chance
-

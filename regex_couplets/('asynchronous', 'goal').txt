@@ -1,9 +1,0 @@
-
-('asynchronous', 'goal')
-
-asynchronous 
-Though there are quarters goals
-
-slow asynchronous
-and without quartely goals
-

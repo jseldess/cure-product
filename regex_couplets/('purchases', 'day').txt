@@ -1,9 +1,0 @@
-
-('purchases', 'day')
-
-I tell you the weight of my purchases
-The day
-
-I have entered my purchases
-at least most days
-

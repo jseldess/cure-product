@@ -1,9 +1,0 @@
-
-('entered', '3')
-
-I have entered my phone
-13
-
-I have entered my purposes
-3 [PASSWORDS]
-

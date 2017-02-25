@@ -1,9 +1,0 @@
-
-('tv', '3')
-
-when watching tv
-13
-
-When I'm watching my tv 
-3 [PASSWORDS]
-

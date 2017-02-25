@@ -1,9 +1,0 @@
-
-('POST', 'consume')
-
-POST SONG
-I could consume the dream
-
-POST
-without consumer damage
-

@@ -1,9 +1,0 @@
-
-('latency', 'knowing')
-
-with latency from constituents
-knowing the constituents
-
-and latency found
-that their knowing
-

@@ -1,9 +1,0 @@
-
-('thought', 'high')
-
-I thought
-The sun high enough to enter directly
-
-I answered what I thought
-The sun high enough to strike directly
-

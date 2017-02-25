@@ -1,9 +1,0 @@
-
-('product', 'buffered')
-
-an impure product
-between tracked and buffered
-
-the least productive of myself
-tracked between buffered and sizes
-

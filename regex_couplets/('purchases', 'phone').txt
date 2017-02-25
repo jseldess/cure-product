@@ -1,9 +1,0 @@
-
-('purchases', 'phone')
-
-I tell you the weight of my purchases
-I have entered my phone
-
-washed my purchases
-I had entered my phone
-

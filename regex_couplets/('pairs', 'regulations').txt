@@ -1,9 +1,0 @@
-
-('pairs', 'regulations')
-
-and key value pairs
-with implicit regulations
-
-with key value pairs
-in front of the set of regulations
-

@@ -1,9 +1,0 @@
-
-('distance', 'enough')
-
-Falling from this distance
-The sun high enough to enter directly 
-
-And from a weak distance
-The sun high enough to strike directly
-

@@ -1,9 +1,0 @@
-
-('many', '4')
-
-not many face up
-4
-
-The many transparent pixel calls
-44 seconds inside
-

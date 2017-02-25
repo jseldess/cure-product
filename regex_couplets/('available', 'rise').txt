@@ -1,9 +1,0 @@
-
-('available', 'rise')
-
-Then the sun isn’t available
-to see the sunrise
-
-or an available resource
-they should rise up
-

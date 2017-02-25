@@ -1,9 +1,0 @@
-
-('knows', '4')
-
-who knows the way
-14
-
-who knows how to turn it off
-44 seconds inside
-

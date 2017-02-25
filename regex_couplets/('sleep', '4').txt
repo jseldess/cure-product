@@ -1,9 +1,0 @@
-
-('sleep', '4')
-
-Where I sleep at times
-14
-
-The sun is still sleeping? Well, then I’m going back to sleep, too.
-4
-

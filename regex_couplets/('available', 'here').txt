@@ -1,9 +1,0 @@
-
-('available', 'here')
-
-Then the sun isn’t available
-I’ll get there eventually
-
-or an available resource
-there was no promotion
-

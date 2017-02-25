@@ -1,9 +1,0 @@
-
-('ask', 'messageable')
-
-You should ask who I am
-brought messageable to you
-
-drifting away from the task
-brought messageable into privacy
-

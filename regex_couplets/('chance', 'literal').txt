@@ -1,9 +1,0 @@
-
-('chance', 'literal')
-
-attesting this is a chance
-and literally moved
-
-This is your chance
-as it was designed literally
-

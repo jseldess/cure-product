@@ -1,9 +1,0 @@
-
-('If', 'impulse')
-
-If I step on the edge
-impulse control
-
-If I take a different measure
-I send and retrieve the impulse
-

@@ -1,9 +1,0 @@
-
-('strength', 'regulations')
-
-The strength of the habits
-with implicit regulations
-
-is a function of the strength
-in front of the set of regulations
-

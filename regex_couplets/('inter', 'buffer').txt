@@ -1,9 +1,0 @@
-
-('inter', 'buffer')
-
-A face and an interface. Exhaustion and saturation. 
-between tracked and buffered
-
-my interfaced stand data
-tracked between buffered and sizes
-

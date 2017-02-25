@@ -1,9 +1,0 @@
-
-('coffee', 'alley')
-
-We’ll have coffee this morning
-over the roof of the buildings across the alley
-
-Sweets and coffee and juice
-over the hooves and buildings across the alley
-

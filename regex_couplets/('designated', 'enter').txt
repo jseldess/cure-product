@@ -1,9 +1,0 @@
-
-('designated', 'enter')
-
-I designated 
-The sun high enough to enter directly
-
-designated 
-I have entered my phone
-

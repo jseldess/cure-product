@@ -1,9 +1,0 @@
-
-('morning', 'air')
-
-We’ll have coffee this morning
-Puffs of air
-
-before morning goals
-and key value pairs
-

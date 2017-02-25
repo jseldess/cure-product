@@ -1,9 +1,0 @@
-
-('Arrayed', 'coffee')
-
-Arrayed
-We’ll have coffee this morning
-
-Arrayed out in such a nested way
-Sweets and coffee and juice
-

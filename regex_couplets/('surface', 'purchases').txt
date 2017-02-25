@@ -1,9 +1,0 @@
-
-('surface', 'purchases')
-
-white spots on a black surface
-I tell you the weight of my purchases
-
-black spots on a white surface
-I have entered my purchases
-

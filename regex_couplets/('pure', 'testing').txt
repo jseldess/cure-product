@@ -1,9 +1,0 @@
-
-('pure', 'testing')
-
-an impure product
-smile testing glance repeated expressions
-
-as pure as my children Walt Whitman
-attesting this is a chance
-

@@ -1,9 +1,0 @@
-
-('constituents', 'wait')
-
-The constituents would be helped
-not needing to wait
-
-from my constituents
-Though we are waiting 
-

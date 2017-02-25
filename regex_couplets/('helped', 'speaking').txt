@@ -1,9 +1,0 @@
-
-('helped', 'speaking')
-
-people would be helped
-not speaking
-
-The constituents would be helped
-without really speaking
-

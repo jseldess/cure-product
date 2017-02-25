@@ -1,9 +1,0 @@
-
-('blue', 'but')
-
-Then blue and sun again a second, then night
-No! It’s morning, but the sun isn’t up yet.
-
-blue and sun again a second, then night
-but it continued
-

@@ -1,9 +1,0 @@
-
-('buffered', 'offer')
-
-between tracked and buffered
-in track as offer asked 
-
-tracked between buffered and sizes
-I assume the offers reliable
-

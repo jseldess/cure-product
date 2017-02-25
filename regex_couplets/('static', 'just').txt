@@ -1,9 +1,0 @@
-
-('static', 'just')
-
-wrapped in static and explicit statements
-it was not just a defeat
-
-while wrapped in explicit static
-was not just a defeat
-

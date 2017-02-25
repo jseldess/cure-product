@@ -1,9 +1,0 @@
-
-('head', '3')
-
-Without a head
-13
-
-Strange things I have in head, that will to hand,
-3 [PASSWORDS]
-

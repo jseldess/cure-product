@@ -1,9 +1,0 @@
-
-('different', 'COPY')
-
-If I take a different measure
-COPY DREAM 
-
-If I take some different measure
-COPY
-

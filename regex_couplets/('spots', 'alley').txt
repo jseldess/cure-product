@@ -1,9 +1,0 @@
-
-('spots', 'alley')
-
-white spots on a black surface
-over the roof of the buildings across the alley
-
-black spots on a white surface
-over the hooves and buildings across the alley
-

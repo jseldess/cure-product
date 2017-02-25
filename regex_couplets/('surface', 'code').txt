@@ -1,9 +1,0 @@
-
-('surface', 'code')
-
-white spots on a black surface
-falling off the encoded end
-
-black spots on a white surface
-encoded off the end
-

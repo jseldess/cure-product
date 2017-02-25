@@ -1,9 +1,0 @@
-
-('strength', 'implicit')
-
-The strength of the habits
-with implicit regulations
-
-is a function of the strength
-wrapped in static implicit statements
-

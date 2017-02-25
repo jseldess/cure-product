@@ -1,9 +1,0 @@
-
-('code', 'buffered')
-
-as long as I have access to the code
-between tracked and buffered
-
-zipcode
-tracked between buffered and sizes
-

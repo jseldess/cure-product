@@ -1,9 +1,0 @@
-
-('office', 'content')
-
-I am first in the office 
-After having been contented
-
-I am the first in the office
-that having been after content
-

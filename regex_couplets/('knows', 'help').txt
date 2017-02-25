@@ -1,9 +1,0 @@
-
-('knows', 'help')
-
-who knows the way
-people would be helped
-
-who knows how to turn it off
-Bach helps turn it off
-

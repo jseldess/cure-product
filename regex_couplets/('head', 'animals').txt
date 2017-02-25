@@ -1,9 +1,0 @@
-
-('head', 'animals')
-
-Without a head
-ed animals
-
-Strange things I have in head, that will to hand,
-between bills and stuffed animals
-

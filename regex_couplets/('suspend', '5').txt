@@ -1,9 +1,0 @@
-
-('suspend', '5')
-
-Ask who I am to suspend
-15
-
-I suspend live connections to you
-5
-

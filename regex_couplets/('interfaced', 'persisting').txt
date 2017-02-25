@@ -1,9 +1,0 @@
-
-('interfaced', 'persisting')
-
-my interfaced stand data
-and persisting and replicating
-
-I interfaced
-in memory persisting elsewhere
-

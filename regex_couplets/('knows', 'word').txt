@@ -1,9 +1,0 @@
-
-('knows', 'word')
-
-who knows the way
-falling off the end of the word
-
-who knows how to turn it off
-passwords 
-

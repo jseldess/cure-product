@@ -1,9 +1,0 @@
-
-('help', '4')
-
-people would be helped
-4
-
-in the form help sale offered
-44 seconds inside
-

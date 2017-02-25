@@ -1,9 +1,0 @@
-
-('isn\xe2\x80\x99t', 'space')
-
-The sun isn’t up 
-in rotating directionless space
-
-Then the sun isn’t available
-in the space that it had
-

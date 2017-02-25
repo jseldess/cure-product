@@ -1,9 +1,0 @@
-
-('THE', 'assumed')
-
-THE SNOW
-I assumed 
-
-THE OFFERS
-I assumed that they were divisible
-

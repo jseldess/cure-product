@@ -1,9 +1,0 @@
-
-('COPY', 'joyous')
-
-COPY DREAM 
-a futile joyous white sun
-
-COPY
-some sort of a futile joyous white sun
-

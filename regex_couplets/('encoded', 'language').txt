@@ -1,9 +1,0 @@
-
-('encoded', 'language')
-
-falling off the encoded end
-The first language
-
-encoded off the end
-First language
-

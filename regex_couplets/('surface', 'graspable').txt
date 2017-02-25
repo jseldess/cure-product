@@ -1,9 +1,0 @@
-
-('surface', 'graspable')
-
-white spots on a black surface
-having been graspable
-
-black spots on a white surface
-having been an ungraspable time
-

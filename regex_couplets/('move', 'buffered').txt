@@ -1,9 +1,0 @@
-
-('move', 'buffered')
-
-since I can imagine movement
-between tracked and buffered
-
-not literally moved about
-tracked between buffered and sizes
-

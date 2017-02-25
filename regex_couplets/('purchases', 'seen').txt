@@ -1,9 +1,0 @@
-
-('purchases', 'seen')
-
-I tell you the weight of my purchases
-Having seen more than 
-
-for my own purchases
-being seen by me
-

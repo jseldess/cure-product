@@ -1,9 +1,0 @@
-
-('pure', 'reach')
-
-an impure product
-I reach repeated expressions first
-
-What is an impure product
-And reached up the screen
-

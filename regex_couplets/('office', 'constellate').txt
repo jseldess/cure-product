@@ -1,9 +1,0 @@
-
-('office', 'constellate')
-
-I am first in the office 
-Then I constellate my time family country
-
-I am the first in the office
-So I constellate the time family country
-

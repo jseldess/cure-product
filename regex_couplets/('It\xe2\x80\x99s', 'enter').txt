@@ -1,9 +1,0 @@
-
-('it\xe2\x80\x99s', 'enter')
-
-But it’s dark outside. It’s still nightime.
-I have entered my phone
-
-and it’s not literal
-I had entered my phone
-

@@ -1,9 +1,0 @@
-
-('who', 'phrase')
-
-Ask who I am to suspend
-phrase them of my possessions
-
-who knows how to turn it off
-phrase them of our possessions
-

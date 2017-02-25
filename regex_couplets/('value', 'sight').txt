@@ -1,9 +1,0 @@
-
-('value', 'sight')
-
-Then I cannot see face value
-In my sight 
-
-And as an extension of the values
-in pursuit of the sight
-

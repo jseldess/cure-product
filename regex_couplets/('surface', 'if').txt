@@ -1,9 +1,0 @@
-
-('surface', 'if')
-
-white spots on a black surface
-If I take a different measure
-
-black spots on a white surface
-If I take some different measure
-

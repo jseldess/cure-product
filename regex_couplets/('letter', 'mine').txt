@@ -1,9 +1,0 @@
-
-('letter', 'mine')
-
-It’s the third letter from the end
-The third letter from the end is mine
-
-I just got a letter
-The ads in mine
-

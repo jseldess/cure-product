@@ -1,9 +1,0 @@
-
-('value', '4')
-
-Then I cannot see face value
-14
-
-The CEO tells me to embody values
-4
-

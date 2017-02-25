@@ -1,9 +1,0 @@
-
-('it\xe2\x80\x99s', '4')
-
-But it’s dark outside. It’s still nightime.
-14
-
-and it’s not literal
-4
-

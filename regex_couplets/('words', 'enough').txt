@@ -1,9 +1,0 @@
-
-('words', 'enough')
-
-missing words
-The sun high enough to enter directly
-
-passwords 
-The sun high enough to strike directly
-

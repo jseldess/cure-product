@@ -1,9 +1,0 @@
-
-('asynchronous', 'enter')
-
-asynchronous 
-I have entered my phone
-
-slow asynchronous
-The sun high enough to enter directly 
-

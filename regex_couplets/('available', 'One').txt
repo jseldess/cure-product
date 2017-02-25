@@ -1,9 +1,0 @@
-
-('available', 'One')
-
-Then the sun isn’t available
-One year or
-
-or an available resource
-One was up where it should be down
-

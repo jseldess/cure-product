@@ -1,9 +1,0 @@
-
-('white', 'ground')
-
-white spots on a black surface
-no solid ground to continue along
-
-black spots on a white surface
-ground for not paying
-

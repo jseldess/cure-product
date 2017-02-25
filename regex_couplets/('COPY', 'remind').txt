@@ -1,9 +1,0 @@
-
-('COPY', 'remind')
-
-COPY DREAM 
-I let it remind me again
-
-COPY
-and come home to remind inflections
-

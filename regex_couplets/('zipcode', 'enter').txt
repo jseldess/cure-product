@@ -1,9 +1,0 @@
-
-('zipcode', 'enter')
-
-I click my zipcode up where it should be down
-The sun high enough to enter directly
-
-zipcode
-I have entered my phone
-

@@ -1,9 +1,0 @@
-
-('office', 'data')
-
-I am first in the office 
-I’ll pull my data higher up
-
-I am the first in the office
-I’ll pull my data
-

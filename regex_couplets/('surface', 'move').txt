@@ -1,9 +1,0 @@
-
-('surface', 'move')
-
-white spots on a black surface
-cells, the movement of cells and the division of cells
-
-black spots on a white surface
-and literally moved
-

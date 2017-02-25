@@ -1,9 +1,0 @@
-
-('impulse', 'learned')
-
-impulse control
-learned without too much difficulty to code
-
-I send and retrieve the impulse
-I learned my location
-

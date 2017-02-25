@@ -1,9 +1,0 @@
-
-('mean', 'answers')
-
-What does it mean to drift
-the duration of answers
-
-latency which doesn’t mean anything
-for the duration of answers
-

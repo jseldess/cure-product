@@ -1,9 +1,0 @@
-
-('it\xe2\x80\x99s', 'zip')
-
-But it’s dark outside. It’s still nightime.
-May I have your zip code
-
-and it’s not literal
-zipcode
-

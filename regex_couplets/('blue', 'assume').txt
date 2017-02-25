@@ -1,9 +1,0 @@
-
-('blue', 'assume')
-
-Then blue and sun again a second, then night
-I assumed it was visible
-
-blue and sun again a second, then night
-I assumed 
-

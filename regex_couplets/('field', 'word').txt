@@ -1,9 +1,0 @@
-
-('field', 'word')
-
-Before we walk across the wide field
-falling off the end of the word
-
-stopped light with validated fields
-passwords 
-

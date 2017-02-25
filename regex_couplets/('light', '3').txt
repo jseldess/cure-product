@@ -1,9 +1,0 @@
-
-('light', '3')
-
-variegated reflected light
-13
-
-stopped light with validated fields
-3 [PASSWORDS]
-

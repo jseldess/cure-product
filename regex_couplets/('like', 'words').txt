@@ -1,9 +1,0 @@
-
-('like', 'words')
-
-I would like your zip code
-missing words
-
-A way formerly like this one
-passwords 
-

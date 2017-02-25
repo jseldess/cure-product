@@ -1,9 +1,0 @@
-
-('grasp', 'supporters')
-
-having been graspable
-I have supporters
-
-And for an ungraspable time
-having supporters 
-

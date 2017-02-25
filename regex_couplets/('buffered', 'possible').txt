@@ -1,9 +1,0 @@
-
-('buffered', 'possible')
-
-between tracked and buffered
-which is not necessarily possible
-
-tracked between buffered and sizes
-that this is possible
-

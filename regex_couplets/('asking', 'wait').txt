@@ -1,9 +1,0 @@
-
-('asking', 'wait')
-
-sizes track for asking sound
-though we are waiting for her
-
-sizes asking for tracking sound
-not needing to wait
-

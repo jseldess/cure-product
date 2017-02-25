@@ -1,9 +1,0 @@
-
-('when', 'redundant')
-
-when we had jobs that was to churn some bread
-and sound redundant
-
-when it is not literal
-redundant
-

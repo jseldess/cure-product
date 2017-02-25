@@ -1,9 +1,0 @@
-
-('surface', 'case')
-
-white spots on a black surface
-only in the case
-
-black spots on a white surface
-I ask say in that case
-

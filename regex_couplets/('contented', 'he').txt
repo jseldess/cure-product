@@ -1,9 +1,0 @@
-
-('contented', 'he')
-
-After having been contented
-Then the sun isn’t available
-
-after having been contented Strategy comes before morning
-Then the sun isn’t up
-

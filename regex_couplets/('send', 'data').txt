@@ -1,9 +1,0 @@
-
-('send', 'data')
-
-I send and retrieve the impulse
-trackers collecting data on users
-
-where I send and relive would be held
-my interfaced stand data
-

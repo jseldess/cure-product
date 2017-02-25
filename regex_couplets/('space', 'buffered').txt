@@ -1,9 +1,0 @@
-
-('space', 'buffered')
-
-in rotating directionless space
-between tracked and buffered
-
-in the fill space 
-tracked between buffered and sizes
-

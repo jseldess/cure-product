@@ -1,9 +1,0 @@
-
-('send', 'tracked')
-
-I send and retrieve the impulse
-which as tracked befitted 
-
-where I send and relive
-which as tracked befitted phased
-

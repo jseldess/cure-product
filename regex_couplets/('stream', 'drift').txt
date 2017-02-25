@@ -1,9 +1,0 @@
-
-('stream', 'drift')
-
-into the stream of pictures
-drifting away
-
-I can find a way to block it in the incoming stream
-drifting does not feel an exception
-

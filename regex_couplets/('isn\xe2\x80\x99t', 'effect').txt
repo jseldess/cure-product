@@ -1,9 +1,0 @@
-
-('isn\xe2\x80\x99t', 'effect')
-
-The sun isn’t up 
-Some disease effecting the tree out front
-
-Then the sun isn’t up
-I could in effect credit
-

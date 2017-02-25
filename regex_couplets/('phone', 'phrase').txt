@@ -1,9 +1,0 @@
-
-('phone', 'phrase')
-
-I have entered my phone
-phrase them of my possessions
-
-I had entered my phone
-phrase them of our possessions
-

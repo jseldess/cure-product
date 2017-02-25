@@ -1,9 +1,0 @@
-
-('spots', 'They')
-
-white spots on a black surface
-They can be waived
-
-black spots on a white surface
-They have very many choices
-

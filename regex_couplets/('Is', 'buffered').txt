@@ -1,9 +1,0 @@
-
-('Is', 'buffered')
-
-Why isn’t the sun up? Is the sun lazy?
-between tracked and buffered
-
-Is there a baby and a bear
-tracked between buffered and sizes
-

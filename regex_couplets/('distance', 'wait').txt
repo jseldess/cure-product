@@ -1,9 +1,0 @@
-
-('distance', 'wait')
-
-Falling from this distance
-There are spots waiting
-
-And from a great distance
-Though we are waiting for her
-

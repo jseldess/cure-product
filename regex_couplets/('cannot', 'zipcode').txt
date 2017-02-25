@@ -1,9 +1,0 @@
-
-('cannot', 'zipcode')
-
-Then I cannot see face value
-I click my zipcode up where it should be down
-
-in that I cannot remember 
-zipcode
-

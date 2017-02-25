@@ -1,9 +1,0 @@
-
-('spots', 'enough')
-
-white spots on a black surface
-The sun high enough to enter directly 
-
-black spots on a white surface
-The sun high enough to strike directly
-

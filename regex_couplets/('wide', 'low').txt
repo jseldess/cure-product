@@ -1,9 +1,0 @@
-
-('wide', 'low')
-
-Before we walk across the wide field
-slow
-
-Before we walk across the wide opening
-slow asynchronous
-

@@ -1,9 +1,0 @@
-
-('strength', 'regulated')
-
-The strength of the habits
-in a regulated climate
-
-is a function of the strength
-with internally regulated climate
-

@@ -1,9 +1,0 @@
-
-('gravity', 'will')
-
-and testing the edge and gravity
-will not be the same
-
-where I need gravity
-would only willingly break
-

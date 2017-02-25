@@ -1,9 +1,0 @@
-
-('phone', 'persisting')
-
-I have entered my phone
-and persisting and replicating
-
-reflexing indented in my phone
-in memory persisting elsewhere
-

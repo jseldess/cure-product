@@ -1,9 +1,0 @@
-
-('purchased', 'COPY')
-
-purchased out
-COPY DREAM 
-
-having been purchased out
-COPY
-

@@ -1,9 +1,0 @@
-
-('should', 'messageable')
-
-You should ask who I am
-brought messageable to you
-
-While I should be sleeping
-brought messageable into privacy
-

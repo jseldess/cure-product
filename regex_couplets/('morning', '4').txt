@@ -1,9 +1,0 @@
-
-('morning', '4')
-
-We’ll have coffee this morning
-14
-
-No! It’s morning, but the sun isn’t up yet.
-4
-

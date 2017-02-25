@@ -1,9 +1,0 @@
-
-('offered', 'pulse')
-
-in the form filled offered in trust
-I send and retrieve the impulse
-
-in the form filled offered trust
-to stand and retrieve and pulse around
-

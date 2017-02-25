@@ -1,9 +1,0 @@
-
-('distance', 'standing')
-
-Falling from this distance
-hovering above standing water
-
-And from a weak distance
-my standing in data
-

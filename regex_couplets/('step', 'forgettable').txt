@@ -1,9 +1,0 @@
-
-('step', 'forgettable')
-
-I step off the edge
-forgettable
-
-stepping in the middle
-and maybe forgettable
-

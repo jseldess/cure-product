@@ -1,9 +1,0 @@
-
-('designated', 'inter')
-
-I designated 
-Then I saw them interview
-
-designated 
-my interfaced stand data
-

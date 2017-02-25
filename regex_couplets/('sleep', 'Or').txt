@@ -1,9 +1,0 @@
-
-('sleep', 'Or')
-
-Where I sleep at times
-Or the company
-
-While I should be sleeping 
-Or in some imaginary elsewhere
-

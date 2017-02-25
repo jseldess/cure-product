@@ -1,9 +1,0 @@
-
-('cannot', 'stuffed')
-
-Then I cannot see face value
-between bills and stuffed animals
-
-in that I cannot remember 
-bills and stuffed animals
-

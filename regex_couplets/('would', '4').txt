@@ -1,9 +1,0 @@
-
-('would', '4')
-
-over the long line I would honor
-14
-
-I would like your zip code
-4
-

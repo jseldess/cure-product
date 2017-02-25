@@ -1,9 +1,0 @@
-
-('dark', 'up?')
-
-But it’s dark outside. It’s still nightime.
-No! It’s morning, but the sun isn’t up yet.
-
-because it was really dark
-It’s time to wake up, Papa!
-

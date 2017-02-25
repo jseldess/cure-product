@@ -1,9 +1,0 @@
-
-('pure', 'stopped')
-
-an impure product
-stopped light with validated variegated fields
-
-What is an impure product
-stopped light with validated fields
-

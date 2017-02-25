@@ -1,9 +1,0 @@
-
-('edge', 'pairs')
-
-I step off the edge
-and key value pairs
-
-and testing the edge and gravity
-with key value pairs
-

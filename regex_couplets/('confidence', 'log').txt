@@ -1,9 +1,0 @@
-
-('confidence', 'log')
-
-If you have confidence regardless all else
-I logged in
-
-Which can be called confidence
-I used my technology
-

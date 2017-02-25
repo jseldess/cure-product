@@ -1,9 +1,0 @@
-
-('static', 'work')
-
-wrapped in static and explicit statements
-I walk up and don’t work anymore
-
-while wrapped in explicit static
-nor work in this way daily
-

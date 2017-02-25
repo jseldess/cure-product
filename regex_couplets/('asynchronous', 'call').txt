@@ -1,9 +1,0 @@
-
-('asynchronous', 'call')
-
-asynchronous 
-not calling or echoing for once
-
-slow asynchronous
-though it was most emphatically that
-

@@ -1,9 +1,0 @@
-
-('gravity', '4')
-
-and testing the edge and gravity
-14
-
-where I need gravity
-4
-

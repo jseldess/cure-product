@@ -1,9 +1,0 @@
-
-('asynchronous', 'open')
-
-asynchronous 
-Before we walk across the wide opening
-
-slow asynchronous
-my desires were open
-

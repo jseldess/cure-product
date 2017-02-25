@@ -1,9 +1,0 @@
-
-('cannot', 'offer')
-
-Then I cannot see face value
-in the form filled offered in trust
-
-in that I cannot remember 
-I assume the offers revisitable
-

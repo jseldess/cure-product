@@ -1,9 +1,0 @@
-
-('office', 'standing')
-
-I am first in the office 
-hovering above standing water
-
-I am the first in the office
-my standing in data
-

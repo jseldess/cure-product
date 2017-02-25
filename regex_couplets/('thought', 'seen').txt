@@ -1,9 +1,0 @@
-
-('thought', 'seen')
-
-I thought
-Having seen more than 
-
-I answered what I thought
-being seen by me
-

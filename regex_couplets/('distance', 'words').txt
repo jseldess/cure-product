@@ -1,9 +1,0 @@
-
-('distance', 'words')
-
-Falling from this distance
-missing words
-
-And from a weak distance
-full of the missing words
-

@@ -1,9 +1,0 @@
-
-('value', 'water')
-
-Then I cannot see face value
-hovering above standing water
-
-And as an extension of the values
-the way was water
-

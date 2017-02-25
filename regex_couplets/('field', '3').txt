@@ -1,9 +1,0 @@
-
-('field', '3')
-
-Before we walk across the wide field
-13
-
-stopped light with validated fields
-3 [PASSWORDS]
-

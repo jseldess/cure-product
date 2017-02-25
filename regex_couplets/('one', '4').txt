@@ -1,9 +1,0 @@
-
-('One', '4')
-
-One day there is direction
-14
-
-One was up where it should be down
-4
-

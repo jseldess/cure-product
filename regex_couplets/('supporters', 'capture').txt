@@ -1,9 +1,0 @@
-
-('supporters', 'capture')
-
-I have supporters
-I captured an afterimage
-
-having supporters 
-I capture an afterimage
-

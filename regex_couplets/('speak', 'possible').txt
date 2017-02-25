@@ -1,9 +1,0 @@
-
-('speak', 'possible')
-
-not speaking
-which is not necessarily possible
-
-speak them of my possessions
-that this is possible
-

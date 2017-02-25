@@ -1,9 +1,0 @@
-
-('POST', 'Or')
-
-POST SONG
-Or in some imaginary elsewhere
-
-POST
-Or alter of course the time anyway
-

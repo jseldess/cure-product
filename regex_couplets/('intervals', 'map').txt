@@ -1,9 +1,0 @@
-
-('intervals', 'map')
-
-hold at intervals riding forward
-and could be mapped and weighed
-
-at intervals while riding forward
-could map to the dimnsions of a graph
-

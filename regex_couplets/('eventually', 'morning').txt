@@ -1,9 +1,0 @@
-
-('eventually', 'morning')
-
-I’ll get there eventually
-No! It’s morning, but the sun isn’t up yet.
-
-eventually 
-before morning goals
-

@@ -1,9 +1,0 @@
-
-('send', 'battery')
-
-I send and retrieve the impulse
-battery dawn nights blending themselves
-
-where I send and relive
-battery dawn nights ending themselves
-

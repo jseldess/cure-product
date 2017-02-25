@@ -1,9 +1,0 @@
-
-('accounting', 'word')
-
-without the long time I was accounting
-falling off the end of the word
-
-without the long time I was on accounting
-missing words
-

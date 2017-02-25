@@ -1,9 +1,0 @@
-
-('exactly', 'buffered')
-
-It’s not marshal exactly
-between tracked and buffered
-
-I turn not sad exactly
-tracked between buffered and sizes
-

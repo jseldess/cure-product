@@ -1,9 +1,0 @@
-
-('Ask', '5')
-
-Ask who I am to suspend
-15
-
-Ask who I am
-5
-

@@ -1,9 +1,0 @@
-
-('block', 'than')
-
-I want to find a way to block it incoming
-than in the incoming stream
-
-I can find a way to block it
-than solid ground
-

@@ -1,9 +1,0 @@
-
-('upend', '5')
-
-I upend my connections to you
-15
-
-I upend live connections to you
-5
-

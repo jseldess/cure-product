@@ -1,9 +1,0 @@
-
-('move', 'state')
-
-since I can imagine movement
-explicit statements
-
-cells, the movement of cells and the division of cells
-I swayed a little in my state
-

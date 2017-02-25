@@ -1,9 +1,0 @@
-
-('send', 'requesting')
-
-I send and retrieve the impulse
-I am requesting my point
-
-where I send and retrieve relive
-requesting my standing
-

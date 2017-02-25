@@ -1,9 +1,0 @@
-
-('knows', 'waves')
-
-who knows the way
-with her waves
-
-who knows how to turn it off
-with no constant waves
-

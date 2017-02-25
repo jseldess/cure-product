@@ -1,9 +1,0 @@
-
-('put', '4')
-
-The edge is put in place
-14
-
-Where I put it beating
-4
-

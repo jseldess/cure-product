@@ -1,9 +1,0 @@
-
-('isn\xe2\x80\x99t', 'confidence')
-
-The sun isn’t up 
-If you have confidence regardless all else
-
-Then the sun isn’t available
-Which can be called confidence
-

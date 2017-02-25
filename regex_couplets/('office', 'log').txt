@@ -1,9 +1,0 @@
-
-('office', 'log')
-
-I am first in the office 
-I logged in
-
-I am the first in the office
-I used my technology
-

@@ -1,9 +1,0 @@
-
-('office', 'One')
-
-I am first in the office 
-One year or
-
-I am the first in the office
-One was up where it should be down
-

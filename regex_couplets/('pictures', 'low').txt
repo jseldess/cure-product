@@ -1,9 +1,0 @@
-
-('pictures', 'low')
-
-into the stream of pictures
-slow
-
-interjecting into the stream of pictures
-slow asynchronous
-

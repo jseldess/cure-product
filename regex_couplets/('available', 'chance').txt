@@ -1,9 +1,0 @@
-
-('available', 'chance')
-
-Then the sun isn’t available
-attesting this is a chance
-
-or an available resource
-This is your chance
-

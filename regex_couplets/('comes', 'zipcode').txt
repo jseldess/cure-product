@@ -1,9 +1,0 @@
-
-('comes', 'zipcode')
-
-Strategy comes before morning
-I click my zipcode up where it should be down
-
-and that man comes on to tell me 
-zipcode
-

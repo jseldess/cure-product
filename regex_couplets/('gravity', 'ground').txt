@@ -1,9 +1,0 @@
-
-('gravity', 'ground')
-
-and testing the edge and gravity
-no solid ground to continue along
-
-where I need gravity
-ground for not paying
-

@@ -1,9 +1,0 @@
-
-('THE', 'than')
-
-THE SNOW
-than solid ground
-
-THE OFFERS
-Having seen more than 
-

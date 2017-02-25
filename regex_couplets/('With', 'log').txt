@@ -1,9 +1,0 @@
-
-('With', 'log')
-
-With goals 
-I logged in
-
-With a fervor 
-I used my technology
-

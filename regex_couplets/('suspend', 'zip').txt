@@ -1,9 +1,0 @@
-
-('suspend', 'zip')
-
-Ask who I am to suspend
-May I have your zip code
-
-I wear suspenders
-I click my zipcode up where it should be down
-

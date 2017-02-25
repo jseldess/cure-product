@@ -1,9 +1,0 @@
-
-('goals', 'gravity')
-
-Though there are quarters goals
-and testing the edge and gravity
-
-not goals
-where I need gravity
-

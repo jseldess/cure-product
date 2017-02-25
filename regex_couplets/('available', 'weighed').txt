@@ -1,9 +1,0 @@
-
-('available', 'weighed')
-
-Then the sun isn’t available
-and could be mapped and weighed
-
-or an available resource
-They can be weighed
-

@@ -1,9 +1,0 @@
-
-('phone', 'animals')
-
-I have entered my phone
-ed animals
-
-reflexing indented in my phone
-between bills and stuffed animals
-

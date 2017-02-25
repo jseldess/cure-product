@@ -1,9 +1,0 @@
-
-('send', 'seen')
-
-I send and retrieve the impulse
-Having seen more than 
-
-where I send and relive
-being seen by me
-

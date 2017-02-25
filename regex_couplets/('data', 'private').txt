@@ -1,9 +1,0 @@
-
-('data', 'private')
-
-I’ll pull my data higher up
-The days of private data
-
-The days of parsing data
-by the private preambles
-

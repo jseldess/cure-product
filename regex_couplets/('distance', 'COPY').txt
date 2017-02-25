@@ -1,9 +1,0 @@
-
-('distance', 'COPY')
-
-Falling from this distance
-COPY DREAM 
-
-And from a weak distance
-COPY
-

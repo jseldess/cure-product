@@ -1,9 +1,0 @@
-
-('answers', 'enter')
-
-the duration of answers
-I have entered my phone
-
-for the duration of answers
-I had entered my phone
-

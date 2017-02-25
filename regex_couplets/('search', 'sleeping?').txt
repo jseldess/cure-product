@@ -1,9 +1,0 @@
-
-('search', 'sleeping?')
-
-I search with my head
-While I should be sleeping 
-
-I log in and search with my head
-Looking back while I should be sleeping
-

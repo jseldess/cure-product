@@ -1,9 +1,0 @@
-
-('value', 'My')
-
-Then I cannot see face value
-My associations
-
-And as an extension of the values
-My purpose up in the sky
-

@@ -1,9 +1,0 @@
-
-('available', 'water')
-
-Then the sun isn’t available
-hovering above standing water
-
-or an available resource
-the way was water
-

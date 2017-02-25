@@ -1,9 +1,0 @@
-
-('COPY', 'ring')
-
-COPY DREAM 
-storing in surfeit
-
-COPY
-firing and connecting somewhere
-

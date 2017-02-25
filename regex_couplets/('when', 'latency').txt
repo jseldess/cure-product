@@ -1,9 +1,0 @@
-
-('When', 'latency')
-
-When I woke up in the morning
-with latency from constituents
-
-When I'm watching my tv 
-latency which doesn’t mean anything
-

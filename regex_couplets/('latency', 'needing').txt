@@ -1,9 +1,0 @@
-
-('latency', 'needing')
-
-with latency from constituents
-without really needing
-
-latency which doesn’t mean anything
-not needing to wait
-

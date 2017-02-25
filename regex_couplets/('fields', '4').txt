@@ -1,9 +1,0 @@
-
-('fields', '4')
-
-stopped light with validated variegated fields
-14
-
-stopped light with validated fields
-44 seconds inside
-

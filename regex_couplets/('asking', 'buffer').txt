@@ -1,9 +1,0 @@
-
-('asking', 'buffer')
-
-sizes track for asking sound
-between tracked and buffered
-
-sizes asking for tracking sound
-tracked between buffered and sizes
-

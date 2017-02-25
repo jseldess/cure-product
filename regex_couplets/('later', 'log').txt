@@ -1,9 +1,0 @@
-
-('later', 'log')
-
-of later results
-I logged in
-
-out of later results
-I used my technology
-

@@ -1,9 +1,0 @@
-
-('speak', 'middle')
-
-not speaking
-stopping in the middle
-
-speak them of my possessions
-stepping in the middle
-

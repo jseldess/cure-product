@@ -1,9 +1,0 @@
-
-('value', 'it\xe2\x80\x99s')
-
-Then I cannot see face value
-But it’s dark outside. It’s still nightime.
-
-value falling off the edge of the face
-and it’s not literal
-

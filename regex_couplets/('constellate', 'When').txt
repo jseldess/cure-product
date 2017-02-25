@@ -1,9 +1,0 @@
-
-('constellate', 'When')
-
-Then I constellate my time family country
-When I woke up in the morning
-
-So I constellate the time family country
-When we had jobs that were to earn
-

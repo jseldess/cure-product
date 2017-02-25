@@ -1,9 +1,0 @@
-
-('offered', 'knows')
-
-in the form filled offered in trust
-who knows the way
-
-in the form filled offered must
-who knows how to turn it off
-

@@ -1,9 +1,0 @@
-
-('Why', '4')
-
-Why isn’t the sun up? Is the sun lazy?
-14
-
-Why isn’t the sun upIt’s time to wake up
-4
-

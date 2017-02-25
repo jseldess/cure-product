@@ -1,9 +1,0 @@
-
-('inside', 'catch')
-
-I’m simply inside
-Where official policy is to catch and release
-
-But my not feeling the memory inside
-that catch
-

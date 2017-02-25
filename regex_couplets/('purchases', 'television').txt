@@ -1,9 +1,0 @@
-
-('purchases', 'television')
-
-I tell you the weight of my purchases
-there wasn’t any television 
-
-Is the weight of my purchases
-joined in my television
-

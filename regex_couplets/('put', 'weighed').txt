@@ -1,9 +1,0 @@
-
-('put', 'weighed')
-
-The edge is put in place
-and could be mapped and weighed
-
-I put my bread down
-They can be weighed
-

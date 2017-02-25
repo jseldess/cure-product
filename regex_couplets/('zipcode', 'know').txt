@@ -1,9 +1,0 @@
-
-('zipcode', 'know')
-
-I click my zipcode up where it should be down
-knowing the constituents
-
-zipcode
-who knows how to turn it off
-

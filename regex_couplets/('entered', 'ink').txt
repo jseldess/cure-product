@@ -1,9 +1,0 @@
-
-('entered', 'ink')
-
-I have entered my phone
-ink
-
-I have entered my purposes
-I only think I don’t listen
-

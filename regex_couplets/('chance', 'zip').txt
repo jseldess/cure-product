@@ -1,9 +1,0 @@
-
-('chance', 'zip')
-
-attesting this is a chance
-May I have your zip code
-
-This is your chance
-zipcode
-

@@ -1,9 +1,0 @@
-
-('stream', 'offer')
-
-into the stream of pictures
-So I presume the offers already
-
-I can find a way to block it in the incoming stream
-in the form filled offered in trust
-

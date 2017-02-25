@@ -1,9 +1,0 @@
-
-('slow', 'it\xe2\x80\x99s')
-
-slow
-But it’s dark outside. It’s still nightime.
-
-slow asynchronous
-and it’s not literal
-

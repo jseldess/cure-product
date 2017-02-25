@@ -1,9 +1,0 @@
-
-('available', '4')
-
-Then the sun isn’t available
-14
-
-or an available resource
-4
-

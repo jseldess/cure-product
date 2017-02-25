@@ -1,9 +1,0 @@
-
-('product', 'literal')
-
-an impure product
-and literally moved
-
-the least productive of myself
-not literally moved about
-

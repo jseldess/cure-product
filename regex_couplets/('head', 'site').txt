@@ -1,9 +1,0 @@
-
-('head', 'site')
-
-Without a head
-here is the site of the battle of maldon
-
-Strange things I have in head, that will to hand,
-about the site
-

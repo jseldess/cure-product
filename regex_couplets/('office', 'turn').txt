@@ -1,9 +1,0 @@
-
-('office', 'turn')
-
-I am first in the office 
-in a sharp downward turn 
-
-I am the first in the office
-I keep turning back again myself
-

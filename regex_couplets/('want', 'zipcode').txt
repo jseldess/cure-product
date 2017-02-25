@@ -1,9 +1,0 @@
-
-('want', 'zipcode')
-
-When I want something
-I click my zipcode up where it should be down
-
-I want to cite a poem so usual
-zipcode
-

@@ -1,9 +1,0 @@
-
-('distance', 'direction')
-
-Falling from this distance
-Of course there is a direction
-
-A person from a distance
-stopping off in all directions
-

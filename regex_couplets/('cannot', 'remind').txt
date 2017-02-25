@@ -1,9 +1,0 @@
-
-('cannot', 'remind')
-
-Then I cannot see face value
-I let it remind me again
-
-in that I cannot remember 
-and come home to remind inflections
-

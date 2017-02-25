@@ -1,9 +1,0 @@
-
-('office', 'learn')
-
-I am first in the office 
-I spend time online learning to code
-
-I am the first in the office
-learned without too much difficulty to code
-

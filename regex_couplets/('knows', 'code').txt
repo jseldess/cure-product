@@ -1,9 +1,0 @@
-
-('knows', 'code')
-
-who knows the way
-as long as I have access to the code
-
-who knows how to turn it off
-zipcode
-

@@ -1,9 +1,0 @@
-
-('data', 'persisting')
-
-I’ll pull my data higher up
-and persisting and replicating
-
-my standing in data
-in memory persisting elsewhere
-

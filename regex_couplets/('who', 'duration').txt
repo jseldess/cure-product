@@ -1,9 +1,0 @@
-
-('who', 'duration')
-
-Ask who I am to suspend
-for the duration of the answer
-
-who knows the way
-for the duration of the universe
-

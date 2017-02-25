@@ -1,9 +1,0 @@
-
-('isn\xe2\x80\x99t', 'weighed')
-
-The sun isn’t up 
-and could be mapped and weighed
-
-Then the sun isn’t available
-They can be weighed
-

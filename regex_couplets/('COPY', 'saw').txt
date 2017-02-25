@@ -1,9 +1,0 @@
-
-('COPY', 'saw')
-
-COPY DREAM 
-that I saw
-
-COPY
-Then I saw into you
-

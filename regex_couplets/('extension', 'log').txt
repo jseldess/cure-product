@@ -1,9 +1,0 @@
-
-('extension', 'log')
-
-And as an extension of the values
-I logged in
-
-I tried to feel the extension of key values
-I used my technology
-

@@ -1,9 +1,0 @@
-
-('Arrayed', 'assume')
-
-Arrayed
-I assumed it was visible
-
-Arrayed out in such a nested way
-I assumed 
-

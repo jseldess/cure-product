@@ -1,9 +1,0 @@
-
-('edge', 'implicit')
-
-I step off the edge
-with implicit regulations
-
-and testing the edge and gravity
-wrapped in static implicit statements
-

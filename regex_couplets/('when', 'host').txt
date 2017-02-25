@@ -1,9 +1,0 @@
-
-('When', 'host')
-
-When I woke up in the morning
-Where in me did I host
-
-When I'm watching my tv 
-my sight hosting
-

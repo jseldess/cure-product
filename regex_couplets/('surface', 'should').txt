@@ -1,9 +1,0 @@
-
-('surface', 'should')
-
-white spots on a black surface
-I click my zipcode up where it should be down
-
-black spots on a white surface
-they should rise up
-

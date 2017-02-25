@@ -1,9 +1,0 @@
-
-('many', 'buffered')
-
-not many face up
-between tracked and buffered
-
-The many transparent pixel calls
-tracked between buffered and sizes
-

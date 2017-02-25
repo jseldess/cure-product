@@ -1,9 +1,0 @@
-
-('aligned', 'private')
-
-The days long aligned
-The days of private data
-
-The days were long aligned
-by the private preambles
-

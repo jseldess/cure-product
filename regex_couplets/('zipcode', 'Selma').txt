@@ -1,9 +1,0 @@
-
-('zipcode', 'Selma')
-
-I click my zipcode up where it should be down
-I end up in Bach and Selma
-
-zipcode
-Selma’s squirrel and chickadee
-

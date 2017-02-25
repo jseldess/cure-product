@@ -1,9 +1,0 @@
-
-('knows', 'tv')
-
-who knows the way
-when watching tv
-
-who knows how to turn it off
-where I’m watching my tv
-

@@ -1,9 +1,0 @@
-
-('argued', '4')
-
-I argued the days felt longer
-14
-
-I argued the days were longer
-4
-

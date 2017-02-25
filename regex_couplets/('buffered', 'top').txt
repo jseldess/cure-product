@@ -1,9 +1,0 @@
-
-('buffered', 'top')
-
-between tracked and buffered
-stopped light with validated fields
-
-tracked between buffered and sizes
-stopped light with validated faces
-

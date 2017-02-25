@@ -1,9 +1,0 @@
-
-('value', 'pulse')
-
-Then I cannot see face value
-impulse control
-
-And as an extension of the values
-I send and retrieve the impulse
-

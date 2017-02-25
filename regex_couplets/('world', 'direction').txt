@@ -1,9 +1,0 @@
-
-('world', 'direction')
-
-off the edge of the world
-into rotating directionless 
-
-Which can be pronounced to the world
-stopping off in all directions
-

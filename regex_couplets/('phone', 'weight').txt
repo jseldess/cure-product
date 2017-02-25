@@ -1,9 +1,0 @@
-
-('phone', 'weight')
-
-I have entered my phone
-I tell you the weight of my purchases
-
-I had entered my phone
-The weight kept moaned impression
-

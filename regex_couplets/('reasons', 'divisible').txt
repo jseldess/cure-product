@@ -1,9 +1,0 @@
-
-('reasons', 'divisible')
-
-reasons resources
-I assume the offers divisible
-
-and could be inflected with reasons
-that they were divisible
-

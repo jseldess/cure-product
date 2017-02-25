@@ -1,9 +1,0 @@
-
-('it\xe2\x80\x99s', 'literal')
-
-But it’s dark outside. It’s still nightime.
-and literally moved
-
-and it’s not literal
-and move them literally with me
-

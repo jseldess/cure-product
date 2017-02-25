@@ -1,9 +1,0 @@
-
-('riding', 'log')
-
-hold at intervals riding forward
-I logged in
-
-at intervals while riding forward
-I log in and search with my head
-

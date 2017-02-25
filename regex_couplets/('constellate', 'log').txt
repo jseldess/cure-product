@@ -1,9 +1,0 @@
-
-('constellate', 'log')
-
-Then I constellate my time family country
-I logged in
-
-So I constellate the time family country
-I used my technology
-

@@ -1,9 +1,0 @@
-
-('phone', 'indented')
-
-I have entered my phone
-reflexing indented in my phone
-
-I had entered my phone
-reflexing indented in my moan
-

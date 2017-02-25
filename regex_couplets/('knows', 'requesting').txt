@@ -1,9 +1,0 @@
-
-('knows', 'requesting')
-
-who knows the way
-I am requesting my point
-
-who knows how to turn it off
-requesting my standing
-

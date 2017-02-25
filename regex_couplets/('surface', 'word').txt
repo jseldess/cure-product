@@ -1,9 +1,0 @@
-
-('surface', 'word')
-
-white spots on a black surface
-falling off the end of the word
-
-black spots on a white surface
-missing words
-

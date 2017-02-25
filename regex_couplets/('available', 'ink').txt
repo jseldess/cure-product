@@ -1,9 +1,0 @@
-
-('available', 'ink')
-
-Then the sun isn’t available
-ink
-
-or an available resource
-all that I can think I want
-

@@ -1,9 +1,0 @@
-
-('distance', 'possible')
-
-Falling from this distance
-To that impossible place
-
-And from a weak distance
-which is not necessarily possible
-

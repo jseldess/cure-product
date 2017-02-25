@@ -1,9 +1,0 @@
-
-('data', 'digestion')
-
-I’ll pull my data higher up
-and support digestion
-
-trackers collecting data on users
-wealth and the pace of digestion
-

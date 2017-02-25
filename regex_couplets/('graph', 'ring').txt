@@ -1,9 +1,0 @@
-
-('graph', 'ring')
-
-graphic
-ring
-
-could map to the dimnsions of a graph
-hovering above standing water
-

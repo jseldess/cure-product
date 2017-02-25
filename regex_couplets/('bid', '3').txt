@@ -1,9 +1,0 @@
-
-('bid', '3')
-
-your bid to the next highest ranked network
-13
-
-I was bid to act again myself
-3 [PASSWORDS]
-

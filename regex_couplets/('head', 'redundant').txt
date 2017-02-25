@@ -1,9 +1,0 @@
-
-('head', 'redundant')
-
-Without a head
-and sound redundant
-
-Strange things I have in head, that will to hand,
-redundant
-

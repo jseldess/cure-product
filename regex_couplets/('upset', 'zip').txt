@@ -1,9 +1,0 @@
-
-('upset', 'zip')
-
-upset by Gingrich
-May I have your zip code
-
-Um, upset by Gingrich
-zipcode
-

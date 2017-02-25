@@ -1,9 +1,0 @@
-
-('requesting', 'turned')
-
-I am requesting my point
-He has turned it off
-
-requesting my standing
-I returned
-

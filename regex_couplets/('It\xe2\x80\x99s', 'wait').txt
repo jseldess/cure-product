@@ -1,9 +1,0 @@
-
-('it\xe2\x80\x99s', 'wait')
-
-But it’s dark outside. It’s still nightime.
-There are spots waiting
-
-and it’s not literal
-Though we are waiting 
-

@@ -1,9 +1,0 @@
-
-('When', 'literal')
-
-When I woke up in the morning
-and literally moved
-
-When I'm watching my tv 
-literally moved
-

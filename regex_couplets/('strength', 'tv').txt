@@ -1,9 +1,0 @@
-
-('strength', 'tv')
-
-The strength of the habits
-when watching tv
-
-is a function of the strength 
-When I'm watching my tv 
-

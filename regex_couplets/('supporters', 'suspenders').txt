@@ -1,9 +1,0 @@
-
-('supporters', 'suspenders')
-
-I have supporters
-I wear suspenders
-
-having supporters 
-suspenders
-

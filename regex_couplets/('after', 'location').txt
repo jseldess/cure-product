@@ -1,9 +1,0 @@
-
-('after', 'location')
-
-after having been contented
-I learned my location
-
-that having been after content
-I returned to location
-

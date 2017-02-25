@@ -1,9 +1,0 @@
-
-('send', 'buffered')
-
-I send and retrieve the impulse
-between tracked and buffered
-
-where I send and relive
-tracked between buffered and sizes
-

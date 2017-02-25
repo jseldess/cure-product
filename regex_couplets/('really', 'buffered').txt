@@ -1,9 +1,0 @@
-
-('really', 'buffered')
-
-because it was really dark
-between tracked and buffered
-
-also didn’t really move
-tracked between buffered and sizes
-

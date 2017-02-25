@@ -1,9 +1,0 @@
-
-('office', 'while')
-
-I am first in the office 
-Looking back while I should be sleeping
-
-I am the first in the office
-while wrapped in static
-

@@ -1,9 +1,0 @@
-
-('knows', 'field')
-
-who knows the way
-stopped light with validated variegated fields
-
-who knows how to turn it off
-stopped light with validated fields
-

@@ -1,9 +1,0 @@
-
-('When', 'doesn\xe2\x80\x99t')
-
-When I woke up in the morning
-and it doesn’t take long
-
-When I'm watching my tv 
-latency which doesn’t mean anything
-

@@ -1,9 +1,0 @@
-
-('value', 'advised')
-
-Then I cannot see face value
-I was advised to rewind
-
-And as an extension of the values
-advised to be retainable
-

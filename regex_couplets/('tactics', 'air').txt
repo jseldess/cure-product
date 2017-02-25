@@ -1,9 +1,0 @@
-
-('tactics', 'air')
-
-and strategies not tactics
-and key value pairs
-
-Not goals or tactics
-with key value pairs
-

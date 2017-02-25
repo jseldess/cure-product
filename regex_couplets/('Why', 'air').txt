@@ -1,9 +1,0 @@
-
-('Why', 'air')
-
-Why isn’t the sun up? Is the sun lazy?
-Puffs of air
-
-Why isn’t the sun upIt’s time to wake up
-and key value pairs
-

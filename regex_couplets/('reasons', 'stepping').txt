@@ -1,9 +1,0 @@
-
-('reasons', 'stepping')
-
-reasons resources
-stepping in the middle
-
-and could be inflected with reasons
-stepping off into the middle
-

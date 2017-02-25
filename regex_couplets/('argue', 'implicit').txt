@@ -1,9 +1,0 @@
-
-('argue', 'implicit')
-
-I argued the days felt longer
-with implicit regulations
-
-I argued the days were longer
-wrapped in static implicit statements
-

@@ -1,9 +1,0 @@
-
-('sizes', 'up?')
-
-sizes track for asking sound
-sizes asking for tracking sound
-
-tracked between buffered and sizes
-in track and buffer 
-

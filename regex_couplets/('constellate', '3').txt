@@ -1,9 +1,0 @@
-
-('constellate', '3')
-
-Then I constellate my time family country
-13
-
-So I constellate the time family country
-3 [PASSWORDS]
-

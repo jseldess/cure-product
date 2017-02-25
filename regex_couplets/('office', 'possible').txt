@@ -1,9 +1,0 @@
-
-('office', 'possible')
-
-I am first in the office 
-To that impossible place
-
-I am the first in the office
-which is not necessarily possible
-

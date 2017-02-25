@@ -1,9 +1,0 @@
-
-('graph', 'ink')
-
-graphic
-ink
-
-could map to the dimnsions of a graph
-all that I can think I want
-

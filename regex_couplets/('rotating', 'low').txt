@@ -1,9 +1,0 @@
-
-('rotating', 'low')
-
-into rotating directionless 
-slow
-
-Rather it itself is rotating
-slow asynchronous
-

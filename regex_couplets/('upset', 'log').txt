@@ -1,9 +1,0 @@
-
-('upset', 'log')
-
-upset by Gingrich
-I logged in
-
-Um, upset by Gingrich
-and other types of tracking technology
-

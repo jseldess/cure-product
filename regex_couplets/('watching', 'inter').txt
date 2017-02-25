@@ -1,9 +1,0 @@
-
-('watching', 'inter')
-
-when watching tv
-Then I saw them interview
-
-in the sense of watching
-my interfaced stand data
-

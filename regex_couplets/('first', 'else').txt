@@ -1,9 +1,0 @@
-
-('first', 'else')
-
-I reach repeated expressions first
-If you have confidence regardless all else
-
-I am first in the office 
-Or in some imaginary elsewhere
-

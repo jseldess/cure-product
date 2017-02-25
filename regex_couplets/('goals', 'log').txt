@@ -1,9 +1,0 @@
-
-('goals', 'log')
-
-Though there are quarters goals
-I logged in
-
-before morning goals
-I used my technology
-

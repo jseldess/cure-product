@@ -1,9 +1,0 @@
-
-('suspend', 'knows')
-
-Ask who I am to suspend
-who knows the way
-
-I wear suspenders
-who knows how to turn it off
-

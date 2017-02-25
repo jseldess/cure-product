@@ -1,9 +1,0 @@
-
-('literally', 'surcharge')
-
-and literally moved
-to the right of a surcharge
-
-not literally moved
-the right of surcharge
-

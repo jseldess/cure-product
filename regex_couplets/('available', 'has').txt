@@ -1,9 +1,0 @@
-
-('available', 'has')
-
-Then the sun isn’t available
-It has been since
-
-or an available resource
-in traversing my purchase
-

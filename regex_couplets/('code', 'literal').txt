@@ -1,9 +1,0 @@
-
-('code', 'literal')
-
-as long as I have access to the code
-and literally moved
-
-zipcode
-not literally moved about
-

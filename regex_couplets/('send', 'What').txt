@@ -1,9 +1,0 @@
-
-('send', 'what')
-
-I send and retrieve the impulse
-what literally moved
-
-where I send and relive
-I answered what I thought
-

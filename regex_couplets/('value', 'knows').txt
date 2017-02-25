@@ -1,9 +1,0 @@
-
-('value', 'knows')
-
-Then I cannot see face value
-who knows the way
-
-value falling off the edge of the face
-who knows how to turn it off
-

@@ -1,9 +1,0 @@
-
-('POST', 'wear')
-
-POST SONG
-I wear suspenders
-
-POST
-designed to hold up my underwear
-

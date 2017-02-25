@@ -1,9 +1,0 @@
-
-('suspend', 'assumed')
-
-Ask who I am to suspend
-I assumed it was visible
-
-I suspend live connections to you
-I assumed 
-

@@ -1,9 +1,0 @@
-
-('COPY', 'Is')
-
-COPY DREAM 
-Is the weight of my purchases
-
-COPY
-Is there a baby and a bear
-

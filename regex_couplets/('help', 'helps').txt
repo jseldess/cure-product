@@ -1,9 +1,0 @@
-
-('help', 'helps')
-
-people would be helped
-Bach helps turn it off
-
-Selma helps too
-My daughter helps too
-

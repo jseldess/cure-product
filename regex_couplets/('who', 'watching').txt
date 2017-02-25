@@ -1,9 +1,0 @@
-
-('who', 'watching')
-
-Ask who I am to suspend
-when watching tv
-
-who knows the way
-where I’m watching my tv
-

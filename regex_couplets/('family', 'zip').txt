@@ -1,9 +1,0 @@
-
-('family', 'zip')
-
-Then I constellate my time family country
-May I have your zip code
-
-So I constellate the time family country
-I click my zipcode up where it should be down
-

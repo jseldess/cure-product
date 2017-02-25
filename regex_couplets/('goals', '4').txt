@@ -1,9 +1,0 @@
-
-('goals', '4')
-
-Though there are quarters goals
-14
-
-before morning goals
-4
-

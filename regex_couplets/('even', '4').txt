@@ -1,9 +1,0 @@
-
-('Even', '4')
-
-Even before the lesson starts
-14
-
-Even the children
-4
-

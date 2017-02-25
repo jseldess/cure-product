@@ -1,9 +1,0 @@
-
-('weighed', '4')
-
-and could be mapped and weighed
-14
-
-They can be weighed
-4
-

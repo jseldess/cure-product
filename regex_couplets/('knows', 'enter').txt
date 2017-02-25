@@ -1,9 +1,0 @@
-
-('knows', 'enter')
-
-who knows the way
-The sun high enough to enter directly 
-
-who knows how to turn it off
-I have entered my phone
-

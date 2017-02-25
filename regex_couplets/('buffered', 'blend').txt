@@ -1,9 +1,0 @@
-
-('buffered', 'blend')
-
-between tracked and buffered
-where lights blended themselves
-
-tracked between buffered and sizes
-battery dawn nights blending themselves
-

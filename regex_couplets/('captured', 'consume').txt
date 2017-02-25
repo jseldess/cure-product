@@ -1,9 +1,0 @@
-
-('captured', 'consume')
-
-I captured an afterimage
-I continue to consume
-
-That I captured an afterimage
-without consumer damage
-

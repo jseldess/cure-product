@@ -1,9 +1,0 @@
-
-('available', 'When')
-
-Then the sun isn’t available
-When we had jobs that were to earn
-
-or an available resource
-When closed to my knowing
-

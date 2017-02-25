@@ -1,9 +1,0 @@
-
-('value', 'entered')
-
-Then I cannot see face value
-I have entered my phone
-
-value falling off the edge of the face
-I have entered my purposes
-

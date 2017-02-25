@@ -1,9 +1,0 @@
-
-('phase', 'middle')
-
-phase decisioned by the prospect
-stopping in the middle
-
-phase decisioned
-stepping in the middle
-

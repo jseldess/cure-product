@@ -1,9 +1,0 @@
-
-('head', 'state')
-
-Without a head
-explicit statements
-
-Strange things I have in head, that will to hand,
-I swayed a little in my state
-

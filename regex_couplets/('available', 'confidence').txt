@@ -1,9 +1,0 @@
-
-('available', 'confidence')
-
-Then the sun isn’t available
-If you have confidence regardless all else
-
-or an available resource
-Which can be called confidence
-

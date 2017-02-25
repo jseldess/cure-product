@@ -1,9 +1,0 @@
-
-('fields', 'literal')
-
-stopped light with validated variegated fields
-and literally moved
-
-stopped light with validated fields
-not literally moved about
-

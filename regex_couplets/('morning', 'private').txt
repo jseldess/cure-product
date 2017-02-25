@@ -1,9 +1,0 @@
-
-('morning', 'private')
-
-We’ll have coffee this morning
-by the private preambles
-
-No! It’s morning, but the sun isn’t up yet.
-The days of private data
-

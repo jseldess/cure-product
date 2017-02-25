@@ -1,9 +1,0 @@
-
-('distance', 'last')
-
-Falling from this distance
-What was the last time
-
-And from a weak distance
-Where in me did I last
-

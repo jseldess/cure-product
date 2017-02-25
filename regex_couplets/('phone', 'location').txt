@@ -1,9 +1,0 @@
-
-('phone', 'location')
-
-I have entered my phone
-I learned my location
-
-reflexing indented in my phone
-I returned to location
-

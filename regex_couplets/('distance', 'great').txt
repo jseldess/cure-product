@@ -1,9 +1,0 @@
-
-('distance', 'great')
-
-Falling from this distance
-And from that great distance
-
-And from a weak distance
-And from a great distance
-

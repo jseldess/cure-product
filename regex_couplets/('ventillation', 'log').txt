@@ -1,9 +1,0 @@
-
-('ventillation', 'log')
-
-I am told ventillation
-I logged in
-
-by no ventillation my purpose
-I used my technology
-

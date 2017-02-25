@@ -1,9 +1,0 @@
-
-('such', 'slow')
-
-Arrayed out in such a nested way
-slow
-
-such as I see
-slow asynchronous
-

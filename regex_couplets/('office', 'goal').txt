@@ -1,9 +1,0 @@
-
-('office', 'goal')
-
-I am first in the office 
-There are quarterly goals
-
-I am the first in the office
-before morning goals
-

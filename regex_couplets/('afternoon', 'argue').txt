@@ -1,9 +1,0 @@
-
-('afternoon', 'argue')
-
-upsent in the afternoon
-I argued the days felt longer
-
-an upsent afternoon
-I argued the days were longer
-

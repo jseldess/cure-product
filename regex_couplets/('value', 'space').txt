@@ -1,9 +1,0 @@
-
-('value', 'space')
-
-Then I cannot see face value
-in rotating directionless space
-
-value falling off the edge of the face
-in the space that it had
-

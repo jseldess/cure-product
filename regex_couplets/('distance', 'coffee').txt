@@ -1,9 +1,0 @@
-
-('distance', 'coffee')
-
-Falling from this distance
-Sweets and coffee and juice
-
-And from a weak distance
-iced coffee and sun position
-

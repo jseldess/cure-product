@@ -1,9 +1,0 @@
-
-('stream', 'it\xe2\x80\x99s')
-
-into the stream of pictures
-But it’s dark outside. It’s still nightime.
-
-I can find a way to block it in the incoming stream
-and it’s not literal
-

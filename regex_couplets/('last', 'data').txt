@@ -1,9 +1,0 @@
-
-('last', 'data')
-
-What was the last time
-trackers collecting data on users
-
-Where in me did I last
-my interfaced stand data
-

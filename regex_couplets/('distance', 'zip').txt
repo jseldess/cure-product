@@ -1,9 +1,0 @@
-
-('distance', 'zip')
-
-Falling from this distance
-May I have your zip code
-
-A person from a distance
-I click my zipcode up where it should be down
-

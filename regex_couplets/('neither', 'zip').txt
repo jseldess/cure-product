@@ -1,9 +1,0 @@
-
-('neither', 'zip')
-
-To neither study
-May I have your zip code
-
-To substitute neither study
-zipcode
-

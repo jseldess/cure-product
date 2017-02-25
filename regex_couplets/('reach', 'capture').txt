@@ -1,9 +1,0 @@
-
-('reach', 'capture')
-
-I reach repeated expressions first
-I captured an afterimage
-
-And reached up the screen
-I capture an afterimage
-

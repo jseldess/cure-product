@@ -1,9 +1,0 @@
-
-('consume', 'zip')
-
-I continue to consume
-I click my zipcode up where it should be down
-
-I could consume the dream
-zipcode
-

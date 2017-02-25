@@ -1,9 +1,0 @@
-
-('strength', 'aspiration')
-
-The strength of the habits
-They are called aspirational
-
-is a function of the strength 
-with little reasons to aspiration
-

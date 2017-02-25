@@ -1,9 +1,0 @@
-
-('Before', 'assumed')
-
-Before we walk across the wide field
-I assumed it was visible
-
-Before we walk across the wide opening
-I assumed 
-

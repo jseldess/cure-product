@@ -1,9 +1,0 @@
-
-('value', 'phone')
-
-Then I cannot see face value
-I have entered my phone
-
-value falling off the edge of the face
-reflexing indented in my phone
-

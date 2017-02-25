@@ -1,9 +1,0 @@
-
-('eventually', '4')
-
-I’ll get there eventually
-14
-
-results eventually
-4
-

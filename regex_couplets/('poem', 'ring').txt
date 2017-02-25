@@ -1,9 +1,0 @@
-
-('poem', 'ring')
-
-I want to cite a poem so usual
-ring
-
-I want to cite a poem
-hovering above standing water
-

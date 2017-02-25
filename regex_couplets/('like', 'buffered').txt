@@ -1,9 +1,0 @@
-
-('like', 'buffered')
-
-I would like your zip code
-between tracked and buffered
-
-A way formerly like this one
-tracked between buffered and sizes
-

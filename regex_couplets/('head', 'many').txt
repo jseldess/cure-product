@@ -1,9 +1,0 @@
-
-('head', 'many')
-
-Without a head
-not many face up
-
-Strange things I have in head, that will to hand,
-The many transparent pixel calls
-

@@ -1,9 +1,0 @@
-
-('When', 'help')
-
-When I woke up in the morning
-people would be helped
-
-When I'm watching my tv 
-in the form help sale offered
-

@@ -1,9 +1,0 @@
-
-('slow', 'eat')
-
-slow
-too sunny to eat ice cream
-
-slow asynchronous
-But I can’t let myself treat 
-

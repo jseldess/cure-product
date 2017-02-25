@@ -1,9 +1,0 @@
-
-('THE', 'buffered')
-
-THE SNOW
-between tracked and buffered
-
-THE OFFERS
-tracked between buffered and sizes
-

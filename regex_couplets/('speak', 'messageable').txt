@@ -1,9 +1,0 @@
-
-('speak', 'messageable')
-
-not speaking
-brought messageable to you
-
-speak them of my possessions
-brought messageable into privacy
-

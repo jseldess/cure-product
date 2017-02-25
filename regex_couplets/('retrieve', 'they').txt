@@ -1,9 +1,0 @@
-
-('retrieve', 'They')
-
-I send and retrieve the impulse
-They have very many choices
-
-I send and retrieve aside the impulse
-They were filters
-

@@ -1,9 +1,0 @@
-
-('data', 'coffee')
-
-I’ll pull my data higher up
-Sweets and coffee and juice
-
-trackers collecting data on users
-iced coffee and sun position
-

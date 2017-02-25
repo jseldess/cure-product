@@ -1,9 +1,0 @@
-
-('face', 'coffee')
-
-Then I cannot see face value
-Sweets and coffee and juice
-
-black spots on a white surface
-iced coffee and sun position
-

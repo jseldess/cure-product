@@ -1,9 +1,0 @@
-
-('When', '3')
-
-When I woke up in the morning
-13
-
-When closed to my knowing
-3 [PASSWORDS]
-

@@ -1,9 +1,0 @@
-
-('office', 'weighed')
-
-I am first in the office 
-and could be mapped and weighed
-
-I am the first in the office
-They can be weighed
-

@@ -1,9 +1,0 @@
-
-('search', 'log')
-
-I search with my head
-I logged in
-
-I log in and search with my head
-I used my technology
-

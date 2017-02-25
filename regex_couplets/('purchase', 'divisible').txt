@@ -1,9 +1,0 @@
-
-('purchase', 'divisible')
-
-conversations with our purchase
-I assume the offers divisible
-
-converting sight into a purchase
-I assumed that they were divisible
-

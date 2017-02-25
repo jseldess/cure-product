@@ -1,9 +1,0 @@
-
-('head', 'literal')
-
-Without a head
-and literally moved
-
-Strange things I have in head, that will to hand,
-literally moved
-

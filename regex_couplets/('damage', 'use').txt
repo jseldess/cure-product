@@ -1,9 +1,0 @@
-
-('damage', 'use')
-
-without ensuing damage
-I used my technology
-
-without consumer damage
-trackers collecting data on users
-

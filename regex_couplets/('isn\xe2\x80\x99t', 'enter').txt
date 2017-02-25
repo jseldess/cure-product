@@ -1,9 +1,0 @@
-
-('isn\xe2\x80\x99t', 'enter')
-
-The sun isn’t up 
-I have entered my phone
-
-The edge isn’t even there
-The sun high enough to enter directly 
-

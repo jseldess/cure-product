@@ -1,9 +1,0 @@
-
-('waiting', 'behind')
-
-There are spots waiting
-behind or out front or up above
-
-waiting out front or up above 
-waiting out front or up above or behind
-

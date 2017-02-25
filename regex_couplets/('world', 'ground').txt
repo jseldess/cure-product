@@ -1,9 +1,0 @@
-
-('world', 'ground')
-
-off the edge of the world
-no solid ground to continue along
-
-off the end of the world
-ground for not paying
-

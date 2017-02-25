@@ -1,9 +1,0 @@
-
-('distance', 'pulse')
-
-Falling from this distance
-impulse control
-
-And from a weak distance
-I send and retrieve the impulse
-

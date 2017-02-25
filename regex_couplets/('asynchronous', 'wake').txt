@@ -1,9 +1,0 @@
-
-('asynchronous', 'wake')
-
-asynchronous 
-It’s time to wake up, Papa!
-
-slow asynchronous
-Why isn’t the sun upIt’s time to wake up
-

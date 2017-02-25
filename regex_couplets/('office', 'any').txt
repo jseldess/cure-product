@@ -1,9 +1,0 @@
-
-('office', 'any')
-
-I am first in the office 
-at any time it can drift again
-
-I am the first in the office
-Or the company
-

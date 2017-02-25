@@ -1,9 +1,0 @@
-
-('value', 'weighed')
-
-Then I cannot see face value
-and could be mapped and weighed
-
-And as an extension of the values
-They can be weighed
-

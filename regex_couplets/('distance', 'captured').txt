@@ -1,9 +1,0 @@
-
-('distance', 'captured')
-
-Falling from this distance
-I captured an afterimage
-
-And from a weak distance
-That I captured an afterimage
-

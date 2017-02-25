@@ -1,9 +1,0 @@
-
-('data', 'word')
-
-I’ll pull my data higher up
-falling off the end of the word
-
-trackers collecting data on users
-passwords 
-

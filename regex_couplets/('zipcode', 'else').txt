@@ -1,9 +1,0 @@
-
-('zipcode', 'else')
-
-I click my zipcode up where it should be down
-and elsewhere my memory
-
-zipcode
-By my memory elsewhere
-

@@ -1,9 +1,0 @@
-
-('different', 'statements')
-
-If I take a different measure
-explicit statements
-
-If I take some different measure
-wrapped in static and explicit statements
-

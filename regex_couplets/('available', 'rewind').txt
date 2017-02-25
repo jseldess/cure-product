@@ -1,9 +1,0 @@
-
-('available', 'rewind')
-
-Then the sun isn’t available
-I was advised to rewind
-
-or an available resource
-and came home to rewind inflections
-

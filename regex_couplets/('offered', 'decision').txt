@@ -1,9 +1,0 @@
-
-('offered', 'decision')
-
-in the form filled offered in trust
-forgetting decisions 
-
-in the form filled offered trust
-decisioned to learn 
-

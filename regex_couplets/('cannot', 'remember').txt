@@ -1,9 +1,0 @@
-
-('cannot', 'remember')
-
-Then I cannot see face value
-I can’t remember them
-
-in that I cannot remember 
-Having seen more than I can remember 
-

@@ -1,9 +1,0 @@
-
-('available', 'our')
-
-Then the sun isn’t available
-reasons resources
-
-or an available resource
-with four key value pairs
-

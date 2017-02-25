@@ -1,9 +1,0 @@
-
-('impure', 'goal')
-
-an impure product
-Though there are quarters goals
-
-as an impure product
-and without quartely goals
-

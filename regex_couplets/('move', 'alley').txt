@@ -1,9 +1,0 @@
-
-('move', 'alley')
-
-since I can imagine movement
-over the roof of the buildings across the alley
-
-cells, the movement of cells and the division of cells
-over the hooves and buildings across the alley
-

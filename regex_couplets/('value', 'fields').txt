@@ -1,9 +1,0 @@
-
-('value', 'fields')
-
-Then I cannot see face value
-stopped light with validated variegated fields
-
-value falling off the edge of the face
-stopped light with validated fields
-

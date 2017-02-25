@@ -1,9 +1,0 @@
-
-('No!', 'asynchronous')
-
-No! It’s morning, but the sun isn’t up yet.
-asynchronous 
-
-No! The sun doesn’t sleep. The sun isn’t up!
-slow asynchronous
-

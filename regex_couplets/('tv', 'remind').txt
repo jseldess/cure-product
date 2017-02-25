@@ -1,9 +1,0 @@
-
-('tv', 'remind')
-
-when watching tv
-I let it remind me again
-
-When I'm watching my tv 
-and come home to remind inflections
-

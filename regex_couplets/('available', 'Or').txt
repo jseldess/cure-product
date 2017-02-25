@@ -1,9 +1,0 @@
-
-('available', 'Or')
-
-Then the sun isn’t available
-Or the company
-
-or an available resource
-Or in some imaginary elsewhere
-

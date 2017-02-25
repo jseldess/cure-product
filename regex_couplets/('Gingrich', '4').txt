@@ -1,9 +1,0 @@
-
-('Gingrich', '4')
-
-upset by Gingrich
-14
-
-Um, upset by Gingrich
-4
-

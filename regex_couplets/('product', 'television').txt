@@ -1,9 +1,0 @@
-
-('product', 'television')
-
-an impure product
-there wasn’t any television 
-
-the least productive of myself
-joined in my television
-

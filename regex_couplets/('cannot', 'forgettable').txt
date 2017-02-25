@@ -1,9 +1,0 @@
-
-('cannot', 'forgettable')
-
-Then I cannot see face value
-forgettable
-
-in that I cannot remember 
-and maybe forgettable
-

@@ -1,9 +1,0 @@
-
-('sleep', 'gravity')
-
-Where I sleep at times
-and testing the edge and gravity
-
-like flattening sleep 
-where I need gravity
-

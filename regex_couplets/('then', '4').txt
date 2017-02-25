@@ -1,9 +1,0 @@
-
-('then', '4')
-
-Then blue and sun again a second, then night
-14
-
-Then fall then summer
-4
-

@@ -1,9 +1,0 @@
-
-('it\xe2\x80\x99s', 'enough')
-
-But it’s dark outside. It’s still nightime.
-The sun high enough to enter directly 
-
-and it’s not literal
-The sun high enough to strike directly
-

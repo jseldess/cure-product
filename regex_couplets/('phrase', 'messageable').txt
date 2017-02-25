@@ -1,9 +1,0 @@
-
-('phrase', 'messageable')
-
-phrase them of my possessions
-brought messageable to you
-
-phrase them of our possessions
-brought messageable into privacy
-

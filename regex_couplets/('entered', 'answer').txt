@@ -1,9 +1,0 @@
-
-('entered', 'answer')
-
-I have entered my phone
-for the duration of the answer
-
-I had entered my phone
-I answered about
-

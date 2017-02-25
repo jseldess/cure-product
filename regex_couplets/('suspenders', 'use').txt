@@ -1,9 +1,0 @@
-
-('suspenders', 'use')
-
-I wear suspenders
-I used my technology
-
-suspenders
-trackers collecting data on users
-

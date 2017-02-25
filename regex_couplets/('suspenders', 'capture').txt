@@ -1,9 +1,0 @@
-
-('suspenders', 'capture')
-
-I wear suspenders
-I captured an afterimage
-
-suspenders
-I capture an afterimage
-

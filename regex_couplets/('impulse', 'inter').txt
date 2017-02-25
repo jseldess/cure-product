@@ -1,9 +1,0 @@
-
-('impulse', 'inter')
-
-impulse control
-hold at intervals riding forward
-
-I send and retrieve the impulse
-my interfaced stand data
-

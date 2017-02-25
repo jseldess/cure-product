@@ -1,9 +1,0 @@
-
-('pure', 'use')
-
-an impure product
-because it was really dark
-
-Between the face of pure joy and an interface.
-You use the most essential parts
-

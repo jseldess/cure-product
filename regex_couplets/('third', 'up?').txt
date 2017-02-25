@@ -1,9 +1,0 @@
-
-('third', 'up?')
-
-It’s the third letter from the end
-I just got a letter
-
-The third letter from the end is mine
-I see only the back of falling values
-

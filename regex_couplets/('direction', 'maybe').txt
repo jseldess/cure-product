@@ -1,9 +1,0 @@
-
-('direction', 'maybe')
-
-Whereas direction is beside the point
-and maybe regrettable 
-
-stopping off in all directions
-and maybe forgettable
-

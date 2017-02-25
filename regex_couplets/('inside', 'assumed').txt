@@ -1,9 +1,0 @@
-
-('inside', 'assumed')
-
-I’m simply inside
-I assumed 
-
-But my not feeling the memory inside
-I assumed what I draw
-

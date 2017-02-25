@@ -1,9 +1,0 @@
-
-('head', '4')
-
-Without a head
-14
-
-I brought my head down
-4
-

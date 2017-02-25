@@ -1,9 +1,0 @@
-
-('it\xe2\x80\x99s', 'word')
-
-But it’s dark outside. It’s still nightime.
-falling off the end of the word
-
-and it’s not literal
-passwords 
-

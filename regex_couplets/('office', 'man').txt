@@ -1,9 +1,0 @@
-
-('office', 'man')
-
-I am first in the office 
-There are performance reviews
-
-I am the first in the office
-not many face up
-

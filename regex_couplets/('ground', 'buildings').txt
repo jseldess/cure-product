@@ -1,9 +1,0 @@
-
-('ground', 'buildings')
-
-no solid ground to continue along
-over the roof of the buildings across the alley
-
-ground for not paying
-over the hooves and buildings across the alley
-

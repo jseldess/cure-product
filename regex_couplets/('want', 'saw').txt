@@ -1,9 +1,0 @@
-
-('want', 'saw')
-
-When I want something
-Then I saw into you
-
-I want to cite a poem so usual
-Then I saw them interview
-

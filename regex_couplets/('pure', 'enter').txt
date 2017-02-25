@@ -1,9 +1,0 @@
-
-('pure', 'enter')
-
-an impure product
-I have entered my phone
-
-What is an impure product
-The sun high enough to enter directly 
-

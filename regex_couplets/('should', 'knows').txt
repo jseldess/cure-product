@@ -1,9 +1,0 @@
-
-('should', 'knows')
-
-You should ask who I am
-who knows the way
-
-While I should be sleeping
-who knows how to turn it off
-

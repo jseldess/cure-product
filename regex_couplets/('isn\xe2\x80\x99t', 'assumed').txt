@@ -1,9 +1,0 @@
-
-('isn\xe2\x80\x99t', 'assumed')
-
-The sun isn’t up 
-I assumed it was visible
-
-No! It’s morning, but the sun isn’t up yet.
-I assumed 
-

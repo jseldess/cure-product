@@ -1,9 +1,0 @@
-
-('entered', 'sad')
-
-I have entered my phone
-I turn not sad exactly
-
-I had entered my phone
-I return not sad exactly
-

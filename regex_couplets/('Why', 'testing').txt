@@ -1,9 +1,0 @@
-
-('Why', 'testing')
-
-Why isn’t the sun up? Is the sun lazy?
-smile testing glance repeated expressions
-
-Why isn’t the sun upIt’s time to wake up
-and testing the edge and gravity
-

@@ -1,9 +1,0 @@
-
-('doesn\xe2\x80\x99t', 'word')
-
-No! The sun doesn’t sleep. The sun isn’t up!
-falling off the end of the word
-
-and it doesn’t take long
-passwords 
-

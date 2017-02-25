@@ -1,9 +1,0 @@
-
-('sharp', 'low')
-
-in a sharp downward turn 
-slow
-
-In a sharp downard turn
-slow asynchronous
-

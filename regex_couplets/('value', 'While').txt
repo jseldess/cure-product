@@ -1,9 +1,0 @@
-
-('value', 'while')
-
-Then I cannot see face value
-Looking back while I should be sleeping
-
-And as an extension of the values
-while wrapped in static
-

@@ -1,9 +1,0 @@
-
-('search', 'map')
-
-I search with my head
-and could be mapped and weighed
-
-I log in and search with my head
-could map to the dimnsions of a graph
-

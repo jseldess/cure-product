@@ -1,9 +1,0 @@
-
-('coffee', 'possible')
-
-We’ll have coffee this morning
-To that impossible place
-
-Sweets and coffee and juice
-which is not necessarily possible
-

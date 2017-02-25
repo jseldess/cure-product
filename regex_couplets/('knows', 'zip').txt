@@ -1,9 +1,0 @@
-
-('knows', 'zip')
-
-who knows the way
-May I have your zip code
-
-who knows how to turn it off
-zipcode
-

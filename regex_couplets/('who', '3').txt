@@ -1,9 +1,0 @@
-
-('who', '3')
-
-Ask who I am to suspend
-13
-
-who knows the way
-3 [PASSWORDS]
-

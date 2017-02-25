@@ -1,9 +1,0 @@
-
-('Even', '3')
-
-Even before the lesson starts
-13
-
-Even the children
-3 [PASSWORDS]
-

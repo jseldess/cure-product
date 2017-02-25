@@ -1,9 +1,0 @@
-
-('called', 'log')
-
-Which can be called confidence
-I logged in
-
-They are called aspirational
-I used my technology
-

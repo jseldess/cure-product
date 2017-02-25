@@ -1,9 +1,0 @@
-
-('entered', 'advised')
-
-I have entered my phone
-I was advised to rewind
-
-I have entered my purposes
-advised to be retainable
-

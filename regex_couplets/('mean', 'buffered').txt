@@ -1,9 +1,0 @@
-
-('mean', 'buffered')
-
-What does it mean to drift
-between tracked and buffered
-
-The other end of means
-tracked between buffered and sizes
-

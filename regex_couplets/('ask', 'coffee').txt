@@ -1,9 +1,0 @@
-
-('Ask', 'coffee')
-
-Ask who I am to suspend
-We’ll have coffee this morning
-
-Ask who I am to end my live connection
-Sweets and coffee and juice
-

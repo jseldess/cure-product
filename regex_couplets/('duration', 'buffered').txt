@@ -1,9 +1,0 @@
-
-('duration', 'buffered')
-
-for the duration of the answer
-between tracked and buffered
-
-for the duration of the universe
-tracked between buffered and sizes
-

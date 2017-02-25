@@ -1,9 +1,0 @@
-
-('incoming', 'code')
-
-I want to find a way to block it incoming
-as long as I have access to the code
-
-or the incoming stream
-May I have your zip code
-

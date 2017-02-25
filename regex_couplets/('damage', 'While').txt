@@ -1,9 +1,0 @@
-
-('damage', 'while')
-
-without ensuing damage
-while consuming damage
-
-without consumer damage
-I answered while interfaced
-

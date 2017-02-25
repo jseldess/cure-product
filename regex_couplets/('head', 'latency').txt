@@ -1,9 +1,0 @@
-
-('head', 'latency')
-
-Without a head
-with latency from constituents
-
-Strange things I have in head, that will to hand,
-latency which doesn’t mean anything
-

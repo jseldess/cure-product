@@ -1,9 +1,0 @@
-
-('blue', 'values')
-
-Then blue and sun again a second, then night
-And as an extension of the values
-
-blue and sun again a second, then night
-I see the back of falling values
-

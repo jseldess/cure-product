@@ -1,9 +1,0 @@
-
-('strength', 'eat')
-
-The strength of the habits
-they create
-
-is a function of the strength
-of the habits they create
-

@@ -1,9 +1,0 @@
-
-('morning', 'messageable')
-
-We’ll have coffee this morning
-brought messageable to you
-
-No! It’s morning, but the sun isn’t up yet.
-brought messageable into privacy
-

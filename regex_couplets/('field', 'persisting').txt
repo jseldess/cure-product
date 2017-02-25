@@ -1,9 +1,0 @@
-
-('field', 'persisting')
-
-Before we walk across the wide field
-and persisting and replicating
-
-stopped light with validated fields
-in memory persisting elsewhere
-

@@ -1,9 +1,0 @@
-
-('POST', 'capture')
-
-POST SONG
-I captured an afterimage
-
-POST
-I capture an afterimage
-

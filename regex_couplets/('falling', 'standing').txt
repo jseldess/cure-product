@@ -1,9 +1,0 @@
-
-('Falling', 'standing')
-
-Falling from this distance
-hovering above standing water
-
-Falling from my face
-my standing in data
-

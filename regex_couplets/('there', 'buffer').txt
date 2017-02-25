@@ -1,9 +1,0 @@
-
-('There', 'buffer')
-
-There’s really no need to be so concerned all the time
-between tracked and buffered
-
-There are constant ways
-tracked between buffered and sizes
-

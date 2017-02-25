@@ -1,9 +1,0 @@
-
-('anything', 'learn')
-
-if there is anything 
-decisioned to learn 
-
-if that has anything
-decisioned to learn back
-

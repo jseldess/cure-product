@@ -1,9 +1,0 @@
-
-('contented', 'log')
-
-After having been contented
-I logged in
-
-after having been contented Strategy comes before morning
-I used my technology
-

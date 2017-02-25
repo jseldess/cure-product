@@ -1,9 +1,0 @@
-
-('knows', '3')
-
-who knows the way
-13
-
-who knows how to turn it off
-3 [PASSWORDS]
-

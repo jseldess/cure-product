@@ -1,9 +1,0 @@
-
-('edge', 'inside')
-
-I step off the edge
-I’m simply inside
-
-The edge is put in place
-But my not feeling the memory inside
-

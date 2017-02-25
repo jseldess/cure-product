@@ -1,9 +1,0 @@
-
-('available', 'while')
-
-Then the sun isn’t available
-Looking back while I should be sleeping
-
-or an available resource
-while wrapped in static
-

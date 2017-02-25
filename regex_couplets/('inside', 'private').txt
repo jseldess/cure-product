@@ -1,9 +1,0 @@
-
-('inside', 'private')
-
-I’m simply inside
-The days of private data
-
-But my not feeling the memory inside
-by the private preambles
-

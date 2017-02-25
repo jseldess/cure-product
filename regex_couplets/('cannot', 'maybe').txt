@@ -1,9 +1,0 @@
-
-('cannot', 'maybe')
-
-Then I cannot see face value
-and maybe regrettable 
-
-in that I cannot remember 
-and maybe forgettable
-

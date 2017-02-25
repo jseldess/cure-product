@@ -1,9 +1,0 @@
-
-('damage', 'wait')
-
-without ensuing damage
-There are spots waiting
-
-without consumer damage
-Though we are waiting for her
-

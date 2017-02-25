@@ -1,9 +1,0 @@
-
-('sad', 'returned')
-
-I turn not sad exactly
-I returned not sad exactly
-
-I return not sad exactly
-I returned to location
-

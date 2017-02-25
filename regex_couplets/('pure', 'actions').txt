@@ -1,9 +1,0 @@
-
-('pure', 'actions')
-
-an impure product
-conversations with our reactions
-
-What is an impure product
-to the ends of my transactions
-

@@ -1,9 +1,0 @@
-
-('graph', 'earn')
-
-graphic
-When we had jobs that were to earn
-
-could map to the dimnsions of a graph
-learned without too much difficulty to code
-

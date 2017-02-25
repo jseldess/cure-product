@@ -1,9 +1,0 @@
-
-('coffee', 'ink')
-
-We’ll have coffee this morning
-ink
-
-Sweets and coffee and juice
-I only think I don’t listen
-

@@ -1,9 +1,0 @@
-
-('value', 'assume')
-
-Then I cannot see face value
-I assumed it was visible
-
-value falling off the edge of the face
-I assumed 
-

@@ -1,9 +1,0 @@
-
-('product', 'zipcode')
-
-an impure product
-I click my zipcode up where it should be down
-
-the least productive of myself
-zipcode
-

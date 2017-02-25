@@ -1,9 +1,0 @@
-
-('coffee', 'literal')
-
-We’ll have coffee this morning
-and literally moved
-
-iced coffee and sun position
-not literally moved
-

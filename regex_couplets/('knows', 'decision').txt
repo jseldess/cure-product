@@ -1,9 +1,0 @@
-
-('knows', 'decision')
-
-who knows the way
-the planning process for decisions
-
-who knows how to turn it off
-forgetting decisions 
-

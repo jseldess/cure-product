@@ -1,9 +1,0 @@
-
-('should', 'state')
-
-You should ask who I am
-explicit statements
-
-I click my zipcode up where it should be down
-I swayed a little in my state
-

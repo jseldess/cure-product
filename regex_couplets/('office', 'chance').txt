@@ -1,9 +1,0 @@
-
-('office', 'chance')
-
-I am first in the office 
-attesting this is a chance
-
-I am the first in the office
-This is your chance
-

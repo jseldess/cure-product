@@ -1,9 +1,0 @@
-
-('spots', 'wait')
-
-white spots on a black surface
-There are spots waiting
-
-black spots on a white surface
-Though we are waiting for her
-

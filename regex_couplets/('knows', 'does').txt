@@ -1,9 +1,0 @@
-
-('knows', 'does')
-
-who knows the way
-does not feel an exception
-
-who knows how to turn it off
-and it doesn’t take long
-

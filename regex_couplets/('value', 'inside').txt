@@ -1,9 +1,0 @@
-
-('value', 'inside')
-
-Then I cannot see face value
-I’m simply inside
-
-value falling off the edge of the face
-But my not feeling the memory inside
-

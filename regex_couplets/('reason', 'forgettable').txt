@@ -1,9 +1,0 @@
-
-('reason', 'forgettable')
-
-reasons resources
-forgettable
-
-and could be inflected with reasons
-and maybe forgettable
-

@@ -1,9 +1,0 @@
-
-('weighed', 'word')
-
-and could be mapped and weighed
-falling off the end of the word
-
-They can be weighed
-missing words 
-

@@ -1,9 +1,0 @@
-
-('purchases', 'buffered')
-
-I tell you the weight of my purchases
-between tracked and buffered
-
-for my own purchases
-tracked between buffered and sizes
-

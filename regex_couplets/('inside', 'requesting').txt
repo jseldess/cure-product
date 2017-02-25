@@ -1,9 +1,0 @@
-
-('inside', 'requesting')
-
-I’m simply inside
-I am requesting my point
-
-But my not feeling the memory inside
-requesting my standing
-

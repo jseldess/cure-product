@@ -1,9 +1,0 @@
-
-('distance', 'rise')
-
-Falling from this distance
-to see the sunrise
-
-And from a weak distance
-they should rise up
-

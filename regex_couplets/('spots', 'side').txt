@@ -1,9 +1,0 @@
-
-('spots', 'side')
-
-white spots on a black surface
-actually considering the end
-
-black spots on a white surface
-But my not feeling the memory aside
-

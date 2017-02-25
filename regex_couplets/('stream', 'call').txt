@@ -1,9 +1,0 @@
-
-('stream', 'call')
-
-into the stream of pictures
-not calling or echoing for once
-
-I can find a way to block it in the incoming stream
-though it was most emphatically that
-

@@ -1,9 +1,0 @@
-
-('gravity', 'ring')
-
-and testing the edge and gravity
-actually considering the end
-
-where I need gravity
-firing and connecting somewhere
-

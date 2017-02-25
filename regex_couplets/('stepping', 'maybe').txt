@@ -1,9 +1,0 @@
-
-('stepping', 'maybe')
-
-stepping in the middle
-and maybe regrettable 
-
-stepping off into the middle
-and maybe forgettable
-

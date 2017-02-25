@@ -1,9 +1,0 @@
-
-('distance', 'ground')
-
-Falling from this distance
-no solid ground to continue along
-
-And from a weak distance
-ground for not paying
-

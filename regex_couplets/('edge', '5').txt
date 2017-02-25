@@ -1,9 +1,0 @@
-
-('edge', '5')
-
-I step off the edge
-15
-
-off the edge of the world
-5
-

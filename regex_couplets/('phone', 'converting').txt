@@ -1,9 +1,0 @@
-
-('phone', 'converting')
-
-I have entered my phone
-converting sight
-
-I had entered my phone
-converting sight into a purchase
-

@@ -1,9 +1,0 @@
-
-('same', '3')
-
-Would I love the same stuff
-13
-
-will not be the same
-3 [PASSWORDS]
-

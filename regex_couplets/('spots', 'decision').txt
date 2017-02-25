@@ -1,9 +1,0 @@
-
-('spots', 'decision')
-
-white spots on a black surface
-attributable decisions
-
-black spots on a white surface
-forgetting decisions 
-

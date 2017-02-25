@@ -1,9 +1,0 @@
-
-('available', 'Even')
-
-Then the sun isn’t available
-Even before the lesson starts
-
-or an available resource
-Even the children
-

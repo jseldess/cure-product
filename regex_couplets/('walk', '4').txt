@@ -1,9 +1,0 @@
-
-('walk', '4')
-
-Before we walk across the wide field
-14
-
-there was no walking along the pleasure
-4
-

@@ -1,9 +1,0 @@
-
-('impure', 'constellate')
-
-an impure product
-Then I constellate my time family country
-
-as an impure product
-So I constellate the time family country
-

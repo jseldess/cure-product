@@ -1,9 +1,0 @@
-
-('value', 'watching')
-
-Then I cannot see face value
-when watching tv
-
-that their economic value 
-in the sense of watching
-

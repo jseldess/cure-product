@@ -1,9 +1,0 @@
-
-('pulse', 'word')
-
-impulse control
-falling off the end of the word
-
-I send and retrieve the impulse
-passwords 
-

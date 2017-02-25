@@ -1,9 +1,0 @@
-
-('mean', 'requesting')
-
-What does it mean to drift
-I am requesting my point
-
-latency which doesn’t mean anything
-requesting my standing
-

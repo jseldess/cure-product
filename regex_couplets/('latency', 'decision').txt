@@ -1,9 +1,0 @@
-
-('latency', 'decision')
-
-with latency from constituents
-forgetting decisions 
-
-latency which doesn’t mean anything
-decisioned to learn 
-

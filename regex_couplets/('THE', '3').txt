@@ -1,9 +1,0 @@
-
-('THE', '3')
-
-THE SNOW
-13
-
-THE OFFERS
-3 [PASSWORDS]
-

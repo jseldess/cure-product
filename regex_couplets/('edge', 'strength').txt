@@ -1,9 +1,0 @@
-
-('edge', 'strength')
-
-I step off the edge
-The strength of the habits
-
-and testing the edge and gravity
-is a function of the strength 
-

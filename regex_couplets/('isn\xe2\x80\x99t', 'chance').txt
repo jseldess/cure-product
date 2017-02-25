@@ -1,9 +1,0 @@
-
-('isn\xe2\x80\x99t', 'chance')
-
-The sun isn’t up 
-attesting this is a chance
-
-Then the sun isn’t available
-This is your chance
-

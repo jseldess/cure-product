@@ -1,9 +1,0 @@
-
-('entered', 'word')
-
-I have entered my phone
-falling off the end of the word
-
-I have entered my purposes
-passwords 
-

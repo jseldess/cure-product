@@ -1,9 +1,0 @@
-
-('product', 'words')
-
-an impure product
-missing words
-
-the least productive of myself
-passwords 
-

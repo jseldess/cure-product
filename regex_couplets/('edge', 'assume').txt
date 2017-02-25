@@ -1,9 +1,0 @@
-
-('edge', 'assume')
-
-I step off the edge
-I assumed it was visible
-
-off the edge of the world
-I assumed 
-

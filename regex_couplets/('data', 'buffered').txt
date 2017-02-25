@@ -1,9 +1,0 @@
-
-('data', 'buffered')
-
-I’ll pull my data higher up
-between tracked and buffered
-
-my interfaced stand data
-tracked between buffered and sizes
-

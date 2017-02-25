@@ -1,9 +1,0 @@
-
-('entered', 'asking')
-
-I have entered my phone
-sizes track for asking sound
-
-I had entered my phone
-sizes asking for tracking sound
-

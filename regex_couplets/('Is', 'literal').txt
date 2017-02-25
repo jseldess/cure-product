@@ -1,9 +1,0 @@
-
-('Is', 'literal')
-
-Why isn’t the sun up? Is the sun lazy?
-and literally moved
-
-Is there a baby and a bear
-not literally moved about
-

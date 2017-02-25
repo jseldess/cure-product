@@ -1,9 +1,0 @@
-
-('COPY', 'catch')
-
-COPY DREAM 
-to catch the spots
-
-COPY
-that catch
-

@@ -1,9 +1,0 @@
-
-('When', 'Is')
-
-When I woke up in the morning
-Is the weight of my purchases
-
-When I'm watching my tv 
-Is there a baby and a bear
-

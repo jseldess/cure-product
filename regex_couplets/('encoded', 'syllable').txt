@@ -1,9 +1,0 @@
-
-('encoded', 'syllable')
-
-falling off the encoded end
-The first falling syllable
-
-encoded off the end
-The first syllable 
-
